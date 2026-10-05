@@ -1,0 +1,13 @@
+body {
+background-color: #101827;
+color: white;
+}
+
+h1 {
+font-size: 60px;
+}
+
+section {
+max-width: 1200px;
+margin: auto;
+}
