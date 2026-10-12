@@ -2181,9 +2181,9 @@ button,
         max-height: 50vh;
         min-height: 18em;
         width: 100%; } }
-  @media screen and (orientation: portrait) and (max-width: 600px) {
+  @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
-      max-height: 35vh; } }
+      max-height: 50vh; } }
 
 /* Footer */
 #footer .copyright {
