@@ -102,7 +102,7 @@ body, input, select, textarea {
   @media screen and (max-width: 1280px) {
     body, input, select, textarea {
       font-size: 10pt; } }
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 480px) {
     body, input, select, textarea {
       font-size: 9pt; } }
 
