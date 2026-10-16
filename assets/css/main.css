@@ -2180,10 +2180,10 @@ button,
         height: 25em;
         max-height: 50vh;
         min-height: 18em;
-        width: 40%; } }
+        width: 60%; } }
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
-      max-height: 150vh; } }
+      max-height: 100vh; } }
 
 /* Footer */
 #footer .copyright {
