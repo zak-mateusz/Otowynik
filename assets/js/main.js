@@ -258,69 +258,42 @@
 				});
 
 			});
-
-			// Advanced Search
-						// ======================
-						
-						function normalizeText(text) {
-						
-						    if (!text) return '';
-						
-						    return text
-						        .toLowerCase()
-						        .replace(/ą/g, 'a')
-						        .replace(/ć/g, 'c')
-						        .replace(/ę/g, 'e')
-						        .replace(/ł/g, 'l')
-						        .replace(/ń/g, 'n')
-						        .replace(/ó/g, 'o')
-						        .replace(/ś/g, 's')
-						        .replace(/ż/g, 'z')
-						        .replace(/ź/g, 'z');
-						
-						}
-						
-						const searchInput = document.getElementById('query');
-						
-						if (searchInput) {
-						
-						    searchInput.addEventListener('input', function () {
-						
-						        const searchText = normalizeText(this.value.trim());
-						
-						        const searchWords = searchText
-						            .split(/\s+/)
-						            .filter(word => word.length > 0);
-						
-						        document.querySelectorAll('article').forEach(function(article) {
-						
-						            const title = article.querySelector('h3');
-						            const description = article.querySelector('p');
-						
-						            const titleText = title
-						                ? normalizeText(title.textContent)
-						                : '';
-						
-						            const descriptionText = description
-						                ? normalizeText(description.textContent)
-						                : '';
-						
-						            const content = titleText + ' ' + descriptionText;
-						
-						            const found = searchWords.every(word =>
-						                content.includes(word)
-						            );
-						
-						            if (searchWords.length === 0 || found) {
-						                article.style.display = '';
-						            } else {
-						                article.style.display = 'none';
-						            }
-						
-						        });
-						
-						    });
-						
-						}
+					// Search
+					
+					const searchForm = document.getElementById('search-form');
+					
+					if (searchForm) {
+					    searchForm.addEventListener('submit', function (e) {
+					        e.preventDefault();
+					    });
+					}
+					
+					const searchInput = document.getElementById('query');
+					
+					if (searchInput) {
+					
+					    searchInput.addEventListener('input', function () {
+					
+					        const searchTerm = this.value.toLowerCase().trim();
+					
+					        document.querySelectorAll('article').forEach(function(article) {
+					
+					            const articleText = article.textContent.toLowerCase();
+					
+					            if (
+					                searchTerm === '' ||
+					                articleText.includes(searchTerm)
+					            ) {
+					                article.style.display = '';
+					            } else {
+					                article.style.display = 'none';
+					            }
+					
+					        });
+					
+					    });
+					
+					}
+							
 
 })(jQuery);
