@@ -279,7 +279,7 @@
 					
 					    searchInput.addEventListener('keyup', function () {
 					
-					        const searchTerm = this.value.toLowerCase();
+					      	const searchTerm = normalizeText(this.value);
 					
 					        const articles = document.querySelectorAll('article');
 					
@@ -287,7 +287,7 @@
 					
 					        articles.forEach(function (article) {
 					
-					            const articleText = article.textContent.toLowerCase();
+					           const articleText = normalizeText(article.textContent);
 					
 					            if (articleText.includes(searchTerm)) {
 					
