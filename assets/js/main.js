@@ -260,29 +260,45 @@
 			});
 			// Search
 
-			const searchInput = document.getElementById('query');
-
+					const searchInput = document.getElementById('query');
+					const noResults = document.getElementById('no-results');
+					
 					if (searchInput) {
 					
 					    searchInput.addEventListener('keyup', function () {
 					
-					        const searchTerm = searchInput.value.toLowerCase();
+					        const searchTerm = this.value.toLowerCase();
 					
 					        const articles = document.querySelectorAll('article');
 					
-					        articles.forEach(function(article) {
+					        let visibleCount = 0;
+					
+					        articles.forEach(function (article) {
 					
 					            const articleText = article.textContent.toLowerCase();
 					
 					            if (articleText.includes(searchTerm)) {
+					
 					                article.style.display = '';
+					                visibleCount++;
+					
 					            } else {
+					
 					                article.style.display = 'none';
+					
 					            }
 					
 					        });
 					
+					        if (visibleCount === 0) {
+					            noResults.style.display = 'block';
+					        } else {
+					            noResults.style.display = 'none';
+					        }
+					
 					    });
+					
+					}
 
 }
 })(jQuery);
