@@ -259,4 +259,46 @@
 
 			});
 
+			// Search
+					function normalizeText(text) {
+					
+					    if (!text) return '';
+					
+					    return text
+					        .toLowerCase()
+					        .replace(/ą/g, 'a')
+					        .replace(/ć/g, 'c')
+					        .replace(/ę/g, 'e')
+					        .replace(/ł/g, 'l')
+					        .replace(/ń/g, 'n')
+					        .replace(/ó/g, 'o')
+					        .replace(/ś/g, 's')
+					        .replace(/ż/g, 'z')
+					        .replace(/ź/g, 'z');
+					
+					}
+					
+					const searchInput = document.getElementById('query');
+					
+					if (searchInput) {
+					
+					    searchInput.addEventListener('keyup', function () {
+					
+					        const searchTerm = normalizeText(this.value);
+					
+					        document.querySelectorAll('article').forEach(function (article) {
+					
+					            const articleText = normalizeText(article.textContent);
+					
+					            if (articleText.includes(searchTerm)) {
+					                article.style.display = '';
+					            } else {
+					                article.style.display = 'none';
+					            }
+					
+					        });
+					
+					    });
+					
+					}
 })(jQuery);
