@@ -259,7 +259,7 @@
 
 			});
 		
-		// Search
+			// Search
 				
 				function normalizeText(text) {
 				
@@ -280,7 +280,6 @@
 				}
 				
 				const searchInput = document.getElementById('query');
-				const noResults = document.getElementById('no-results');
 				
 				if (searchInput) {
 				
@@ -288,39 +287,32 @@
 				
 				        const searchTerm = normalizeText(this.value.trim());
 				
-				        const articles = document.querySelectorAll('article');
+				        document.querySelectorAll('article').forEach(function(article) {
 				
-				        let visibleCount = 0;
+				            const title = article.querySelector('h3');
+				            const description = article.querySelector('p');
 				
-				        articles.forEach(function (article) {
+				            const titleText = title
+				                ? normalizeText(title.textContent)
+				                : '';
 				
-				            const articleText = normalizeText(article.textContent);
+				            const descriptionText = description
+				                ? normalizeText(description.textContent)
+				                : '';
+				
+				            const searchContent =
+				                titleText + ' ' + descriptionText;
 				
 				            if (
 				                searchTerm === '' ||
-				                articleText.includes(searchTerm)
+				                searchContent.includes(searchTerm)
 				            ) {
-				
 				                article.style.display = '';
-				                visibleCount++;
-				
 				            } else {
-				
 				                article.style.display = 'none';
-				
 				            }
 				
 				        });
-				
-				        if (noResults) {
-				
-				            if (visibleCount === 0) {
-				                noResults.style.display = 'block';
-				            } else {
-				                noResults.style.display = 'none';
-				            }
-				
-				        }
 				
 				    });
 				
