@@ -258,7 +258,8 @@
 				});
 
 			});
-			// Search
+			// Search .
+	
 					function normalizeText(text) {
 					    return text
 					        .toLowerCase()
@@ -272,6 +273,7 @@
 					        .replace(/ż/g, 'z')
 					        .replace(/ź/g, 'z');
 					}
+	
 					const searchInput = document.getElementById('query');
 					const noResults = document.getElementById('no-results');
 					
