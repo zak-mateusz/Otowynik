@@ -258,61 +258,7 @@
 				});
 
 			});
-			// Search .
-	
-					function normalizeText(text) {
-					    return text
-					        .toLowerCase()
-					        .replace(/ą/g, 'a')
-					        .replace(/ć/g, 'c')
-					        .replace(/ę/g, 'e')
-					        .replace(/ł/g, 'l')
-					        .replace(/ń/g, 'n')
-					        .replace(/ó/g, 'o')
-					        .replace(/ś/g, 's')
-					        .replace(/ż/g, 'z')
-					        .replace(/ź/g, 'z');
-					}
-	
-					const searchInput = document.getElementById('query');
-					const noResults = document.getElementById('no-results');
-					
-					if (searchInput) {
-					
-					    searchInput.addEventListener('keyup', function () {
-					
-					      	const searchTerm = normalizeText(this.value);
-					
-					        const articles = document.querySelectorAll('article');
-					
-					        let visibleCount = 0;
-					
-					        articles.forEach(function (article) {
-					
-					           const articleText = normalizeText(article.textContent);
-					
-					            if (articleText.includes(searchTerm)) {
-					
-					                article.style.display = '';
-					                visibleCount++;
-					
-					            } else {
-					
-					                article.style.display = 'none';
-					
-					            }
-					
-					        });
-					
-					        if (visibleCount === 0) {
-					            noResults.style.display = 'block';
-					        } else {
-					            noResults.style.display = 'none';
-					        }
-					
-					    });
-					
-					}
+		
 
 }
 })(jQuery);
