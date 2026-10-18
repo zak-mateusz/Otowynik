@@ -259,7 +259,19 @@
 
 			});
 			// Search
-
+					function normalizeText(text) {
+					    return text
+					        .toLowerCase()
+					        .replace(/ą/g, 'a')
+					        .replace(/ć/g, 'c')
+					        .replace(/ę/g, 'e')
+					        .replace(/ł/g, 'l')
+					        .replace(/ń/g, 'n')
+					        .replace(/ó/g, 'o')
+					        .replace(/ś/g, 's')
+					        .replace(/ż/g, 'z')
+					        .replace(/ź/g, 'z');
+					}
 					const searchInput = document.getElementById('query');
 					const noResults = document.getElementById('no-results');
 					
