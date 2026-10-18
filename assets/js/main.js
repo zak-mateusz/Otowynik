@@ -258,5 +258,31 @@
 				});
 
 			});
+			// Search
 
+			const searchInput = document.getElementById('query');
+
+					if (searchInput) {
+					
+					    searchInput.addEventListener('keyup', function () {
+					
+					        const searchTerm = searchInput.value.toLowerCase();
+					
+					        const articles = document.querySelectorAll('article');
+					
+					        articles.forEach(function(article) {
+					
+					            const articleText = article.textContent.toLowerCase();
+					
+					            if (articleText.includes(searchTerm)) {
+					                article.style.display = '';
+					            } else {
+					                article.style.display = 'none';
+					            }
+					
+					        });
+					
+					    });
+
+}
 })(jQuery);
