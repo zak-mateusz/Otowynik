@@ -369,6 +369,10 @@ function getSymptomName(id) {
 window.analyzeHealth = function () {
 
     let tests = [];
+    let html = `
+    <h3>Zalecane badania</h3>
+    <ul>
+    `;
 
     selectedSymptoms.forEach(symptom => {
 
