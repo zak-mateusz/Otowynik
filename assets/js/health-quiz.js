@@ -48,11 +48,31 @@ const symptomRules = {
         "Witamina D3"
     ],
 
-    hairloss: [
+    sleepiness: [
         "TSH",
+        "Morfologia",
+        "Witamina D3",
+        "Witamina B12"
+    ],
+
+    noenergy: [
+        "Morfologia",
         "Ferrytyna",
-        "Żelazo",
+        "TSH",
         "Witamina D3"
+    ],
+
+    concentration: [
+        "TSH",
+        "Witamina B12",
+        "Ferrytyna",
+        "Witamina D3"
+    ],
+
+    memory: [
+        "TSH",
+        "Witamina B12",
+        "Kwas foliowy"
     ],
 
     headache: [
@@ -61,16 +81,125 @@ const symptomRules = {
         "TSH"
     ],
 
+    migraine: [
+        "Morfologia",
+        "Magnez",
+        "Glukoza"
+    ],
+
     dizziness: [
         "Morfologia",
         "Ferrytyna",
         "Glukoza"
     ],
 
-    concentration: [
+    palpitations: [
         "TSH",
-        "Witamina B12",
+        "Potas",
+        "Magnez"
+    ],
+
+    dyspnea: [
+        "Morfologia",
+        "CRP",
         "Ferrytyna"
+    ],
+
+    thirst: [
+        "Glukoza",
+        "HbA1c",
+        "Badanie ogólne moczu"
+    ],
+
+    urination: [
+        "Glukoza",
+        "HbA1c",
+        "Badanie ogólne moczu"
+    ],
+
+    sweating: [
+        "TSH",
+        "Glukoza",
+        "Morfologia"
+    ],
+
+    cold: [
+        "TSH",
+        "FT3",
+        "FT4"
+    ],
+
+    heat: [
+        "TSH",
+        "FT3",
+        "FT4"
+    ],
+
+    hairloss: [
+        "TSH",
+        "Ferrytyna",
+        "Żelazo",
+        "Witamina D3"
+    ],
+
+    nails: [
+        "Żelazo",
+        "Ferrytyna",
+        "Witamina D3"
+    ],
+
+    dryskin: [
+        "TSH",
+        "Witamina D3"
+    ],
+
+    pale: [
+        "Morfologia",
+        "Żelazo",
+        "Ferrytyna"
+    ],
+
+    rash: [
+        "CRP",
+        "OB",
+        "Morfologia"
+    ],
+
+    weightgain: [
+        "TSH",
+        "FT3",
+        "FT4",
+        "Glukoza"
+    ],
+
+    weightloss: [
+        "TSH",
+        "CRP",
+        "Glukoza"
+    ],
+
+    noappetite: [
+        "CRP",
+        "ALT",
+        "AST"
+    ],
+
+    highappetite: [
+        "Glukoza",
+        "HbA1c",
+        "TSH"
+    ],
+
+    sleep: [
+        "TSH",
+        "Magnez",
+        "Witamina D3"
+    ],
+
+    insomnia: [
+        "TSH",
+        "Magnez",
+        "Witamina D3"
     ],
 
     infection: [
@@ -79,19 +208,87 @@ const symptomRules = {
         "Witamina D3"
     ],
 
-    thirst: [
-        "Glukoza",
-        "HbA1c"
+    muscles: [
+        "Witamina D3",
+        "Magnez",
+        "Potas"
     ],
 
-    palpitations: [
+    joints: [
+        "CRP",
+        "OB",
+        "Morfologia"
+    ],
+
+    mood: [
         "TSH",
-        "Potas",
-        "Magnez"
+        "Witamina D3",
+        "Witamina B12"
     ]
 
 };
 
+const additionalRules = {
+
+    stress: [
+        "Magnez",
+        "Kortyzol",
+        "TSH"
+    ],
+
+    sleepProblems: [
+        "Magnez",
+        "TSH",
+        "Witamina D3"
+    ],
+
+    vegetarian: [
+        "Witamina B12",
+        "Żelazo",
+        "Ferrytyna",
+        "Kwas foliowy"
+    ],
+
+    vegan: [
+        "Witamina B12",
+        "Żelazo",
+        "Ferrytyna",
+        "Kwas foliowy",
+        "Witamina D3"
+    ],
+
+    smoker: [
+        "CRP",
+        "Morfologia"
+    ],
+
+    thyroidDisease: [
+        "TSH",
+        "FT3",
+        "FT4",
+        "anty-TPO"
+    ],
+
+    familyDiabetes: [
+        "Glukoza",
+        "HbA1c",
+        "Insulina"
+    ],
+
+    weightChange: [
+        "TSH",
+        "Glukoza",
+        "CRP"
+    ],
+
+    pregnant: [
+        "Morfologia",
+        "Żelazo",
+        "Ferrytyna",
+        "TSH"
+    ]
+
+};
 
 let selectedSymptoms = [];
 
@@ -181,12 +378,16 @@ window.analyzeHealth = function () {
 
     });
 
-    tests = [...new Set(tests)];
+    Object.keys(additionalRules).forEach(key => {
 
-    let html = `
-        <h3>Zalecane badania</h3>
-        <ul>
-    `;
+        const checkbox = document.getElementById(key);
+
+        if (checkbox && checkbox.checked) {
+            tests.push(...additionalRules[key]);
+        }
+
+    });
+
 
     tests.forEach(test => {
         html += `<li>${test}</li>`;
