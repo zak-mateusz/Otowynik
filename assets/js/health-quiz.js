@@ -1,8 +1,57 @@
+const symptoms = [
+    { id: "fatigue", name: "Zmęczenie" },
+    { id: "sleepiness", name: "Senność" },
+    { id: "noenergy", name: "Brak energii" },
+    { id: "concentration", name: "Problemy z koncentracją" },
+    { id: "memory", name: "Problemy z pamięcią" },
+    { id: "headache", name: "Bóle głowy" },
+    { id: "migraine", name: "Migreny" },
+    { id: "dizziness", name: "Zawroty głowy" },
+    { id: "palpitations", name: "Kołatanie serca" },
+    { id: "dyspnea", name: "Duszność" },
+
+    { id: "thirst", name: "Nadmierne pragnienie" },
+    { id: "urination", name: "Częste oddawanie moczu" },
+    { id: "sweating", name: "Nadmierna potliwość" },
+    { id: "cold", name: "Nietolerancja zimna" },
+    { id: "heat", name: "Nietolerancja ciepła" },
+
+    { id: "hairloss", name: "Wypadanie włosów" },
+    { id: "nails", name: "Łamliwe paznokcie" },
+    { id: "dryskin", name: "Sucha skóra" },
+    { id: "pale", name: "Bladość skóry" },
+    { id: "rash", name: "Wysypka" },
+
+    { id: "weightgain", name: "Przyrost masy ciała" },
+    { id: "weightloss", name: "Utrata masy ciała" },
+    { id: "noappetite", name: "Brak apetytu" },
+    { id: "highappetite", name: "Zwiększony apetyt" },
+
+    { id: "sleep", name: "Problemy ze snem" },
+    { id: "insomnia", name: "Bezsenność" },
+    { id: "infection", name: "Częste infekcje" },
+    { id: "muscles", name: "Bóle mięśni" },
+    { id: "joints", name: "Bóle stawów" },
+    { id: "mood", name: "Obniżony nastrój" }
+];
+
 let selectedSymptoms = [];
 
 document.addEventListener("DOMContentLoaded", function () {
 
     const select = document.getElementById("symptomSelect");
+    
+    symptoms.forEach(symptom => {
+
+    const option = document.createElement("option");
+
+    option.value = symptom.id;
+    option.textContent = symptom.name;
+
+    select.appendChild(option);
+
+});
+
 
     if (!select) return;
 
@@ -52,20 +101,14 @@ window.removeSymptom = function(symptom) {
     renderSymptoms();
 }
 
-function getSymptomName(symptom) {
 
-    const names = {
-        fatigue: "Zmęczenie",
-        sleepiness: "Senność",
-        headache: "Bóle głowy",
-        hairloss: "Wypadanie włosów",
-        dizziness: "Zawroty głowy",
-        concentration: "Problemy z koncentracją",
-        infections: "Częste infekcje",
-        thirst: "Nadmierne pragnienie"
-    };
+function getSymptomName(id) {
 
-    return names[symptom];
+    const symptom = symptoms.find(
+        item => item.id === id
+    );
+
+    return symptom ? symptom.name : id;
 }
 
 window.analyzeHealth = function () {
