@@ -392,7 +392,10 @@ window.analyzeHealth = function () {
 
     });
 
+    //usuwanie duplikaty
+    tests = [...new Set(tests)];
 
+    
     tests.forEach(test => {
         html += `<li>${test}</li>`;
     });
