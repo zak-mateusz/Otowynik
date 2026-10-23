@@ -28,3 +28,10 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+23/10/2026
+Calculator BMI added 
+Browser of Articlus added
+Few site added
