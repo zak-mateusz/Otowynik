@@ -35,6 +35,64 @@ const symptoms = [
     { id: "mood", name: "Obniżony nastrój" }
 ];
 
+///Silnik dla wynikow
+
+const symptomRules = {
+
+    fatigue: [
+        "Morfologia",
+        "Ferrytyna",
+        "Żelazo",
+        "TSH",
+        "Witamina B12",
+        "Witamina D3"
+    ],
+
+    hairloss: [
+        "TSH",
+        "Ferrytyna",
+        "Żelazo",
+        "Witamina D3"
+    ],
+
+    headache: [
+        "Morfologia",
+        "Glukoza",
+        "TSH"
+    ],
+
+    dizziness: [
+        "Morfologia",
+        "Ferrytyna",
+        "Glukoza"
+    ],
+
+    concentration: [
+        "TSH",
+        "Witamina B12",
+        "Ferrytyna"
+    ],
+
+    infection: [
+        "Morfologia",
+        "CRP",
+        "Witamina D3"
+    ],
+
+    thirst: [
+        "Glukoza",
+        "HbA1c"
+    ],
+
+    palpitations: [
+        "TSH",
+        "Potas",
+        "Magnez"
+    ]
+
+};
+
+
 let selectedSymptoms = [];
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -115,22 +173,13 @@ window.analyzeHealth = function () {
 
     let tests = [];
 
-    if (selectedSymptoms.includes("fatigue")) {
-        tests.push("Morfologia");
-        tests.push("Ferrytyna");
-        tests.push("TSH");
-    }
+    selectedSymptoms.forEach(symptom => {
 
-    if (selectedSymptoms.includes("hairloss")) {
-        tests.push("TSH");
-        tests.push("Żelazo");
-        tests.push("Witamina D3");
-    }
+        if (symptomRules[symptom]) {
+            tests.push(...symptomRules[symptom]);
+        }
 
-    if (selectedSymptoms.includes("headache")) {
-        tests.push("Morfologia");
-        tests.push("Glukoza");
-    }
+    });
 
     tests = [...new Set(tests)];
 
@@ -146,7 +195,11 @@ window.analyzeHealth = function () {
     html += `
         </ul>
 
-        <h3>Przydatne kalkulatory</h3>
+        <p>
+            Wynik ma charakter informacyjny i nie zastępuje konsultacji lekarskiej.
+        </p>
+
+        <h3>Przydatne narzędzia</h3>
 
         <a href="bmi.html" class="button">
             Kalkulator BMI
@@ -154,4 +207,7 @@ window.analyzeHealth = function () {
     `;
 
     document.getElementById("quizResult").innerHTML = html;
+
+};
+
 }
