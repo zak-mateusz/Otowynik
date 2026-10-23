@@ -299,7 +299,7 @@
 
 						window.calculateBMI = function() {
 						
-							alert("Dziala!");
+							//alert("Dziala!");
 							
 						    const weight = parseFloat(document.getElementById("weight").value);
 						    const heightCm = parseFloat(document.getElementById("height").value);
