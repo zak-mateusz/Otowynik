@@ -297,9 +297,7 @@
 					}
 				// BMI Kalkulator
 
-	// BMI Calculator
-
-						function calculateBMI() {
+						window.calculateBMI = function() {
 						
 							alert("Dziala!");
 							
