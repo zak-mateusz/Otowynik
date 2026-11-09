@@ -16,13 +16,11 @@ function loadComponent(file, targetId) {
                     initializeMenu();
                 }
             }
-            }
-        })
+            })
         .catch(error => {
             console.error(error);
         });
-}
-
+    }
 function initializeMenu() {
 
     var $menu = $('#menu'),
