@@ -12,7 +12,11 @@ function loadComponent(file, targetId) {
             if (target) {
                 target.innerHTML = data;
 
-                if (targetId === 'navbar-main-placeholder') {
+                if (
+                    targetId === 'navbar-main-placeholder'||
+                    targetId === 'navbar-other-placeholder'||
+                    targetId === 'header-placeholder')
+                    {
                     initializeMenu();
                 }
             }
