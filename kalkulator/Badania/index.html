@@ -1,0 +1,102 @@
+	<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Quiz Badan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+		<link rel="icon" type="image/png" href="../../favicon.png">
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+							<div id="header-placeholder"></div>
+
+							<!-- Content -->
+								<section id="health-quiz">
+
+									<h2>Quiz zdrowotny</h2>
+
+									<p>Wybierz objawy, które Cię dotyczą.</p>
+
+									<label for="symptomSelect">Dodaj objaw</label>
+
+									<select id="symptomSelect">
+  									  <option value="">-- Wybierz objaw --</option>
+									</select>
+
+									<ul id="selectedSymptoms"></ul>
+
+
+									<h3>Dodatkowe informacje</h3>
+			
+									<input type="checkbox" id="weightChange" name="weightChange">
+									<label for="weightChange">Nagła zmiana masy ciała</label>
+									
+									<input type="checkbox" id="smoker" name="smoker">
+									<label for="smoker">Palenie papierosów</label>
+									
+									<input type="checkbox" id="thyroidDisease" name="thyroidDisease">
+									<label for="thyroidDisease">Choroba tarczycy</label>
+									
+									<input type="checkbox" id="familyDiabetes" name="familyDiabetes">
+									<label for="familyDiabetes">Cukrzyca w rodzinie</label>
+									
+									<input type="checkbox" id="pregnant" name="pregnant">
+									<label for="pregnant">Ciąża</label>
+									
+									<input type="checkbox" id="vegan" name="vegan">
+									<label for="vegan">Dieta wegańska</label>
+									
+									<input type="checkbox" id="chronicMedication" name="chronicMedication">
+									<label for="chronicMedication">Stałe przyjmowanie leków</label>
+									
+									<input type="checkbox" id="physicalActivity" name="physicalActivity">
+									<label for="physicalActivity">Intensywna aktywność fizyczna</label>
+
+									<br><br>
+
+									<ul class="actions">
+										<li>
+											<a href="#" class="button primary" onclick="analyzeHealth(); return false;">
+												Analizuj objawy
+											</a>
+										</li>
+									</ul>
+
+									<div id="quizResult"></div>
+
+								</section>
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="navbar-other-placeholder"></div>
+				</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+			<script src="../assets/js/health-quiz.js"></script>
+			<script>
+				loadComponent('/components/header.html', 'header-placeholder');
+				loadComponent('/components/navbar-other.html', 'navbar-other-placeholder');
+			</script>
+
+	</body>
+</html>

@@ -1,0 +1,85 @@
+	<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>HOMA-IR Kalkulator</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+		<link rel="icon" type="image/png" href="../../favicon.png">
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<div id="header-placeholder"></div>
+
+							<!-- Content -->
+								<section id="bmi-calculator">
+
+									<h2>Kalkulator BMI</h2>
+
+									<p>
+										Sprawdź, czy Twoja masa ciała mieści się w prawidłowym zakresie.
+									</p>
+
+									<label for="weight">Waga (kg)</label>
+									<input type="number" id="weight" 
+											min="20"
+									        max="250"
+									    	step="1"
+											placeholder="Np. 60">
+
+									<label for="height">Wzrost (cm)</label>
+									<input type="number" id="height"
+											min="100"
+										    max="220"
+										    step="1"
+										    placeholder="Np. 140">
+
+									<ul class="actions">
+									    <li>
+									        <a href="#" class="button" onclick="calculateBMI(); return false;">
+									            Oblicz BMI
+									        </a>
+									    </li>
+									</ul>
+
+
+								<div id="bmi-result"></div>
+
+								</section>
+						</div>
+					</div>
+
+				
+					</div>
+
+				<!-- Sidebar -->
+				<div id="navbar-other-placeholder"></div>
+				
+			</div>
+
+		<!-- Scripts -->
+			<script src="../../assets/js/jquery.min.js"></script>
+			<script src="../../assets/js/browser.min.js"></script>
+			<script src="../../assets/js/breakpoints.min.js"></script>
+			<script src="../../assets/js/util.js"></script>
+			<script src="../../assets/js/main.js"></script>
+			<script>
+				loadComponent('/components/header.html', 'header-placeholder');
+				loadComponent('/components/navbar-other.html', 'navbar-other-placeholder');
+			</script>
+
+	</body>
+</html>
