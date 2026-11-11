@@ -13,15 +13,20 @@ function loadComponent(file, targetId) {
                 target.innerHTML = data;
 
                 //zwijanie sidbar
-                    const toggle = document.querySelector('#sidebar .toggle');
+                    if (document.getElementById('sidebar') &&
+                            !document.querySelector('#sidebar .toggle')) {
 
-                         if (toggle) {
-                             toggle.onclick = function(e) {
-                                  e.preventDefault();
-                                 document.getElementById('sidebar').classList.toggle('inactive');
-                                };
-                            }
+                            $('<a href="#sidebar" class="toggle">Toggle</a>')
+                                .appendTo($('#sidebar'))
+                                .on('click', function(event) {
 
+                                    event.preventDefault();
+                                    event.stopPropagation();
+
+                                    $('#sidebar').toggleClass('inactive');
+
+                                });
+                        }
 
                 if (
                     targetId === 'navbar-main-placeholder'||
