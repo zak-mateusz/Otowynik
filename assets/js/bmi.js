@@ -6,21 +6,22 @@
 							
 						    const weight = parseFloat(document.getElementById("weight").value);
 						    const heightCm = parseFloat(document.getElementById("height").value);
+							
+						    const result = document.getElementById("bmi-result");
 
 						    	if (weight < 20 || weight > 250) {
 										result.className = "";
-										result.innerHTML = "❌ Waga musi być z zakresu 20-250 kg.";
+										result.innerHTML = " Waga musi być z zakresu 20-250 kg.";
 										return;
 									}
 
 								if (heightCm < 100 || heightCm > 220) {
 										result.className = "";
-										result.innerHTML = "❌ Wzrost musi być z zakresu 100-220 cm.";
+										result.innerHTML = " Wzrost musi być z zakresu 100-220 cm.";
 										return;
 									}
 
-						    const result = document.getElementById("bmi-result");
-						
+
 						    if (isNaN(weight) || isNaN(heightCm) || weight <= 0 || heightCm <= 0) {
 						
 						        result.className = "";
