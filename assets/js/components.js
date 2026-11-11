@@ -27,7 +27,14 @@ function loadComponent(file, targetId) {
 
                                 });
                         }
+                        if (window.innerWidth <= 736) {
+                            document.getElementById('sidebar')
+                                .classList.add('inactive');
+                        }
+                    }
 
+
+                    
                 if (
                     targetId === 'navbar-main-placeholder'||
                     targetId === 'navbar-other-placeholder'||
