@@ -12,6 +12,17 @@ function loadComponent(file, targetId) {
             if (target) {
                 target.innerHTML = data;
 
+                //zwijanie sidbar
+                    const toggle = document.querySelector('#sidebar .toggle');
+
+                         if (toggle) {
+                             toggle.onclick = function(e) {
+                                  e.preventDefault();
+                                 document.getElementById('sidebar').classList.toggle('inactive');
+                                };
+                            }
+
+
                 if (
                     targetId === 'navbar-main-placeholder'||
                     targetId === 'navbar-other-placeholder'||
