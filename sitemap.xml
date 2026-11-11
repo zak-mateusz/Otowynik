@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-  <loc>https://otowynik.pl/</loc>
-  <lastmod>2026-10-14</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-    <loc>https://otowynik.pl/Jesień to tylko Pumpkin Spice Latte.html</loc>
-</url>
-<url>
-    <loc>https://otowynik.pl/Boisz-się-pobierania-krwi.html</loc>
-</url>
-<url>
-    <loc>https://otowynik.pl/Wiesz-kiedy-wykonac-badania-bolerioza.html</loc>
-</url>
-<url>
-    <loc>https://otowynik.pl/O-Mnie.html</loc>
-</url>
- <lastmod>2026-10-14</lastmod>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-    <loc>https://otowynik.pl/Plodnosc.html</loc>
-</url>
-<url>
-    <loc>https://otowynik.pl/Plodnosc/Witamina D3 a plodnosc.html.html</loc>
-</url>
-<url>
-    <loc>https://otowynik.pl/O-Mnie.html</loc>
-</url>
+    <url>
+        <loc>https://otowynik.pl/</loc>
+        <priority>1.0</priority>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/omnie/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/plodnosc/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/kalkulator/Badania/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/kalkulator/BMI/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/artykuly/Boisz-się-pobierania-krwi/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/artykuly/Pumpkin-Spice-Latte/</loc>
+    </url>
 
+    <url>
+        <loc>https://otowynik.pl/artykuly/Wiesz-kiedy-wykonac-badania-bolerioza/</loc>
+    </url>
 
-
+    <url>
+        <loc>https://otowynik.pl/plodnosc/artykuly/WitaminaD3aplodnosc/</loc>
+    </url>
 
 </urlset>
