@@ -26,15 +26,15 @@ function loadComponent(file, targetId) {
                                     $('#sidebar').toggleClass('inactive');
 
                                 });
-                        }
-                        if (window.innerWidth <= 736) {
+                        
+                        if (window.innerWidth <= 1280) {
                             document.getElementById('sidebar')
                                 .classList.add('inactive');
                         }
                     }
 
 
-                    
+
                 if (
                     targetId === 'navbar-main-placeholder'||
                     targetId === 'navbar-other-placeholder'||
