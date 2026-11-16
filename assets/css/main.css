@@ -2397,21 +2397,24 @@ button,
     min-height: 120px;
 
     background: #ffffff;
-    border: 2px solid #b7c1af;
+    border: 2px solid #B7C1AF;
     border-radius: 14px;
 
     text-decoration: none;
-    color: #24374a;
+    color: #24374A;
 
     font-size: 22px;
     font-weight: 700;
 
     transition: all 0.25s ease;
+
 }
 
 .woj-card:hover {
-    background: #b7c1af;
-    color: #ffffff;
+    background: #B7C1AF;
+    border-color: #A7B29F;
+    color: white;
     transform: translateY(-4px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 12px 20px rgba(0,0,0,0.08);
+
 }
