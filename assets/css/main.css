@@ -2411,7 +2411,7 @@ button,
 }
 
 .woj-card:hover {
-    background: ##3ba889;
+    background: #3ba889;
     border-color: #3ba889;
     color: rgb(2, 0, 0);
     transform: translateY(-4px);
