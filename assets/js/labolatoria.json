@@ -1,0 +1,2952 @@
+[
+    {
+        "nr_wpisu": "4171",
+        "data_wpisu": "2024-03-21",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Chorzowska 38",
+        "kod": "41-605",
+        "miasto": "Świętochłowice",
+        "podmiot": "Dr n. med. Teresa Fryda Laboratorium Medyczne Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4191",
+        "data_wpisu": "2024-12-10",
+        "laboratorium": "Pracownia Diagnostyki Mikrobiologicznej",
+        "ulica": "Medyków 14",
+        "kod": "40-752",
+        "miasto": "Katowice",
+        "podmiot": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4192",
+        "data_wpisu": "2024-12-10",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne Urovita-Lab",
+        "ulica": "Strzelców Bytomskich 11",
+        "kod": "41-500",
+        "miasto": "Chorzów",
+        "podmiot": "\"UROVITA\" Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4199",
+        "data_wpisu": "2025-03-24",
+        "laboratorium": "Pracownia Diagnostyki Genetycznej i Molekulatnej",
+        "ulica": "Medyków 18",
+        "kod": "40-752",
+        "miasto": "Katowice",
+        "podmiot": "Uniwersyteckie Centrum Kliniczne im. Prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4203",
+        "data_wpisu": "2025-03-24",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Stefana Żeromskiego 7",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "KORLAB Laboratoria Medyczne Spółka z ograniczoną odpowiedzialnością, Spółka Komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4209",
+        "data_wpisu": "2025-06-09",
+        "laboratorium": "LABORATORIUM MEDYCZNE ZIELIŃSCY",
+        "ulica": "Marii Skłodowskiej-Curie 7",
+        "kod": "44-200",
+        "miasto": "Rybnik",
+        "podmiot": "LABORATORIUM MEDYCZNE ZIELIŃSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4227",
+        "data_wpisu": "2025-10-14",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Panewnicka 65",
+        "kod": "40-760",
+        "miasto": "Katowice",
+        "podmiot": "Dr n. med. Teresa Fryda Laboratorium Medyczne",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4240",
+        "data_wpisu": "2026-01-28",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Plac Ratuszowy 1B",
+        "kod": "43-170",
+        "miasto": "Łaziska Górne",
+        "podmiot": "Przedsiębiorstwo Usług Medycznych \"PROELMED\" Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "127",
+        "data_wpisu": "2004-02-04",
+        "laboratorium": "Zakład Analityki i Biochemii Klinicznej",
+        "ulica": "ul. Wybrzeże Armii Krajowej 15",
+        "kod": "44-102",
+        "miasto": "Gliwice",
+        "podmiot": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "165",
+        "data_wpisu": "2004-02-06",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Kościelna 13",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Instytut Medycyny Pracy i Zdrowia Środowiskowego w Sosnowcu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "172",
+        "data_wpisu": "2004-02-09",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Gliwicka 20",
+        "kod": "43-180",
+        "miasto": "Orzesze",
+        "podmiot": "Szpital Chorób Płuc w Orzeszu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "176",
+        "data_wpisu": "2004-02-09",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Ziołowa 45-47",
+        "kod": "40-635",
+        "miasto": "Katowice",
+        "podmiot": "Górnośląskie Centrum Medyczne im. Prof. Leszka Gieca \nŚląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "177",
+        "data_wpisu": "2004-02-09",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "ul. Braci Gierymskich 5",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Eugeniusz Biront",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "182",
+        "data_wpisu": "2004-02-09",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne (laboratorium)",
+        "ulica": "ul. Toszecka 18",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "POZ oraz Wielospecjalistyczna Przychodnia Lekarska \"Toszecka\"  Sp.z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "187",
+        "data_wpisu": "2004-02-09",
+        "laboratorium": "Medyczne Laboratorium  Analityczne",
+        "ulica": "ul. Grunwaldzka  48",
+        "kod": "42-700",
+        "miasto": "Lubliniec",
+        "podmiot": "Wojewódzki Szpital Neuropsychiatryczny im. dr. Emila Cyrana",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "188",
+        "data_wpisu": "2004-02-10",
+        "laboratorium": "Dział Laboratoryjny Oddział Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Raciborska 39",
+        "kod": "40-957",
+        "miasto": "Katowice",
+        "podmiot": "Wojewódzka Stacja Sanitarno-Epidemiologiczna w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "194",
+        "data_wpisu": "2004-02-16",
+        "laboratorium": "Laboratorium Diagnostyczne \"Genom\"",
+        "ulica": "ul. Główna 11 paw. A1",
+        "kod": "41-711",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Fundacja Na Rzecz Programu Wczesnego Rozpoznawania  Chorób \nNowotworowych u Kobiet \"Godula Hope\"",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "222",
+        "data_wpisu": "2004-02-16",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Armii Krajowej 101",
+        "kod": "43-316",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Szpital Wojewódzki w Bielsko-Białej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "225",
+        "data_wpisu": "2004-02-16",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Piłsudskiego 84",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "NZOZ Centralne Laboratorium sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "267",
+        "data_wpisu": "2004-03-02",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Gliwicka 5",
+        "kod": "44-180",
+        "miasto": "Toszek",
+        "podmiot": "SPZOZ Szpital Psychiatryczny w Toszku",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "269",
+        "data_wpisu": "2004-03-02",
+        "laboratorium": "Pracownia Mikrobiologii",
+        "ulica": "Marii Curie-Skłodowskiej 9",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Śląskie Centrum Chorób Serca w Zabrzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "277",
+        "data_wpisu": "2004-03-08",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "ul. Gajowa 44",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Laboratorium Analiz Medycznych mgr Iwona Orlikowska",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "283",
+        "data_wpisu": "2004-03-08",
+        "laboratorium": "ŚLA Medyczne Laboratorium Diagnostyczne Świętochłowice",
+        "ulica": "ul. Wojska Polskiego 16H",
+        "kod": "41-600",
+        "miasto": "Świętochłowice",
+        "podmiot": "badaj.to Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "295",
+        "data_wpisu": "2004-03-08",
+        "laboratorium": "Wojewódzki Szpital Specjalistyczny Nr 3 - Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Energetyków 46",
+        "kod": "44-200",
+        "miasto": "Rybnik",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny Nr 3 w Rybniku",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "336",
+        "data_wpisu": "2004-03-29",
+        "laboratorium": "Laboratorium  ANCHEM",
+        "ulica": "ul. Fredry 20",
+        "kod": "40-662",
+        "miasto": "Katowice",
+        "podmiot": "Anchem Laboratorium Analiz Medycznych NZOZ Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "342",
+        "data_wpisu": "2004-03-30",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "ul. Jana Pawła II 1",
+        "kod": "41-100",
+        "miasto": "Siemianowice Śląskie",
+        "podmiot": "Laboratorium Analiz Medycznych \"LABTEST\" Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "354",
+        "data_wpisu": "2004-04-05",
+        "laboratorium": "Laboratorium Mikrobiologiczne",
+        "ulica": "ul. Jana Pawła II nr 1",
+        "kod": "41-100",
+        "miasto": "Siemianowice",
+        "podmiot": "NZOZ Laboratorium Mikrobiologii mgr Ewa Tomanek",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "408",
+        "data_wpisu": "2004-04-26",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Bytomska 62",
+        "kod": "41-940",
+        "miasto": "Piekary Śląskie",
+        "podmiot": "Samodzielny Publiczny Wojewódzki Szpital Chirurgii Urazowej im. dr. Janusza Daaba w Piekarach Śląskich",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "414",
+        "data_wpisu": "2004-04-28",
+        "laboratorium": "Laboratorium Analityczne \"Medyk\"",
+        "ulica": "ul. Powstańców 54",
+        "kod": "42-700",
+        "miasto": "Lubliniec",
+        "podmiot": "NZOZ Przychodnia Lekarska MEDYK s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "420",
+        "data_wpisu": "2004-04-30",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Gliwicka 33",
+        "kod": "44-201",
+        "miasto": "Rybnik",
+        "podmiot": "Kliniczny Szpital Psychiatryczny SPZOZ w Rybniku",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "427",
+        "data_wpisu": "2004-05-04",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Ignacego Paderewskiego 32 C",
+        "kod": "40-282",
+        "miasto": "Katowice",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "428",
+        "data_wpisu": "2004-05-04",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "ul. Zapolskiej 3",
+        "kod": "41-218",
+        "miasto": "Sosnowiec",
+        "podmiot": "Dr n. med.Teresa Fryda Laboratorium Medyczne Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "451",
+        "data_wpisu": "2004-05-10",
+        "laboratorium": "Pracownia Analityczna",
+        "ulica": "ul. Szkolna 6",
+        "kod": "43-512",
+        "miasto": "Bestwina",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bestwinie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "460",
+        "data_wpisu": "2004-05-12",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Wyzwolenia 18",
+        "kod": "43-300",
+        "miasto": "Bielsko - Biała",
+        "podmiot": "Beskidzkie Centrum Onkologii Szpital Miejski im. Jana Pawła II w Bielsku-Białej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "481",
+        "data_wpisu": "2004-05-19",
+        "laboratorium": "Laboratorium Analityczno Bakteriologiczne",
+        "ulica": "ul. Lipowa 3",
+        "kod": "42-600",
+        "miasto": "Tarnowskie Góry",
+        "podmiot": "NZOZ, Zakład Pulmologii w Tarnowskich Górach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "485",
+        "data_wpisu": "2004-05-19",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Fałata 2",
+        "kod": "43-360",
+        "miasto": "Bystra",
+        "podmiot": "Centrum Pulmonologii i Torakochirurgii w Bystrej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "529",
+        "data_wpisu": "2004-06-23",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Jana III Sobieskiego 7a",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Zakład Opieki Zdrowotnej nad Matką, Dzieckiem i Młodzieżą",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "537",
+        "data_wpisu": "2004-06-24",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Wyspiańskiego 21",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Beskidzkie Centrum Onkologii Szpital Miejski im. Jana Pawła II w Bielsku - Białej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "540",
+        "data_wpisu": "2004-06-24",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Jubileuszowa 42",
+        "kod": "41-506",
+        "miasto": "Chorzów",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \" LABOMED\"  W. Toborowicz, B. Rucińska",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "544",
+        "data_wpisu": "2004-06-24",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Szpitalna 2",
+        "kod": "44-120",
+        "miasto": "Pyskowice",
+        "podmiot": "Zespół Szpitali Powiatu Gliwickiego Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "598",
+        "data_wpisu": "2004-06-29",
+        "laboratorium": "Pracownia Bakteriologii",
+        "ulica": "ul. 3-go Maja 13-15",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. Prof. Stanisława Szyszko \nŚląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "602",
+        "data_wpisu": "2004-06-29",
+        "laboratorium": "Oddział Laboratoryjny",
+        "ulica": "3 Maja 64",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Gliwicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "613",
+        "data_wpisu": "2004-06-29",
+        "laboratorium": "Niepubliczny Zakład Diagnostyki Laboratoryjnej Centralne Laboratorium Analityczne dr n. med. Grażyna Kasprzyk",
+        "ulica": "Piastowska 11",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Grażyna Kasprzyk",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "628",
+        "data_wpisu": "2004-06-29",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Bytomska 22",
+        "kod": "42-606",
+        "miasto": "Tarnowskie Góry",
+        "podmiot": "Zakon Posługujący Chorym Ojcowie Kamilianie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "633",
+        "data_wpisu": "2004-06-29",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Sobieskiego 83",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Szpital Pediatryczny w Bielsku-Białej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "652",
+        "data_wpisu": "2004-07-26",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Zygmunta Starego 20",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Szpital Miejski w Gliwicach Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "659",
+        "data_wpisu": "2004-07-26",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. PCK 1",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny im. NMP",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "670",
+        "data_wpisu": "2004-07-27",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Szkolna 3",
+        "kod": "42-262",
+        "miasto": "Poczesna",
+        "podmiot": "Gminny Zespół Ośrodków Zdrowia w Poczesnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "688",
+        "data_wpisu": "2004-07-27",
+        "laboratorium": "Laboratorium Bakteriologii",
+        "ulica": "ul. ks. K. Koziołka 1",
+        "kod": "41-803",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny nr 1 im. Prof.Stanisława Szyszko ŚAM \nw Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "696",
+        "data_wpisu": "2004-07-27",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Medyków 16",
+        "kod": "40-752",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny Nr 6 \nŚląskiego Uniwersytetu Medycznego w Katowicach\nGórnośląskie Centrum Zdrowia Dziecka im. Jana Pawła II",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "735",
+        "data_wpisu": "2004-07-28",
+        "laboratorium": "Pracownia diagnostyki laboratoryjnej",
+        "ulica": "Filipa Słodczyka 7",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Przychodnia Lekarzy Specjalistów \"ZDROWIE\" Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "744",
+        "data_wpisu": "2004-07-28",
+        "laboratorium": "Bank Krwi \ni Pracownia Serologii Transfuzjologicznej",
+        "ulica": "M. Curie-Skłodowskiej 9",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Śląskie Centrum Chorób Serca w Zabrzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "747",
+        "data_wpisu": "2004-07-28",
+        "laboratorium": "Laboratorium I",
+        "ulica": "Ceglana 35",
+        "kod": "40-514",
+        "miasto": "Katowice",
+        "podmiot": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "748",
+        "data_wpisu": "2004-07-28",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Ks. Koziołka 1",
+        "kod": "41-803",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny NR 1\nim. Prof.. Stanisława Szyszko ŚAM. w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "763",
+        "data_wpisu": "2004-07-30",
+        "laboratorium": "Dział Diagnostyki Laboratoryjnej",
+        "ulica": "Wita Stwosza 39-41",
+        "kod": "40-042",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Katowicach im. sierżanta Grzegorza Załogi",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "797",
+        "data_wpisu": "2004-08-02",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Powstańców Śl.8",
+        "kod": "42-400",
+        "miasto": "Zawiercie",
+        "podmiot": "Zakład Lecznictwa Ambulatoryjnego",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "801",
+        "data_wpisu": "2004-08-02",
+        "laboratorium": "Centralne  Laboratorium",
+        "ulica": "ul. Francuska  20-24",
+        "kod": "40-027",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny  Publiczny  Szpital  Kliniczny  im. A. Mielęckiego  Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "811",
+        "data_wpisu": "2004-08-02",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Kościuszki 29",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Szpital Miejski nr 4 w Gliwicach sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "812",
+        "data_wpisu": "2004-08-02",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul.Gwarków 1",
+        "kod": "43-600",
+        "miasto": "Jaworzno",
+        "podmiot": "Przedsiębiorstwo Świadczeń Zdrowotnych \ni Promocji Zdrowia Elvita-Jaworzno III sp z o.o",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "869",
+        "data_wpisu": "2004-08-04",
+        "laboratorium": "Centralne Laboratorium Analityczne w Gliwicach Sp. z o.o.",
+        "ulica": "Zygmunta Starego 16A",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Centralne Laboratorium Analityczne w Gliwicach Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "875",
+        "data_wpisu": "2004-08-04",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "Skłodowskiej 7",
+        "kod": "44-200",
+        "miasto": "Rybnik",
+        "podmiot": "Laboratorium Analiz Lekarskich, \nmgr Piotr Zieliński",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "896",
+        "data_wpisu": "2004-08-05",
+        "laboratorium": "Laboratorium analityczne",
+        "ulica": "Chemików 37",
+        "kod": "43-150",
+        "miasto": "Bieruń",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \"Medicor\" S.C.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "921",
+        "data_wpisu": "2004-08-05",
+        "laboratorium": "Sekcja Badań Chorób Zakaźnych i Zakażeń \nOddziału Laboratoryjnego",
+        "ulica": "ul. Jasnogórska 15A",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Częstochowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "971",
+        "data_wpisu": "2004-08-09",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Cicha 27",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Szpital Miejski w Tychach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "983",
+        "data_wpisu": "2004-08-10",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Okrzei 27",
+        "kod": "43-190",
+        "miasto": "Mikołów",
+        "podmiot": "Szpital św. Józefa sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "988",
+        "data_wpisu": "2004-08-10",
+        "laboratorium": "Oddział Laboratoryjny – Sekcja Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Krasińskiego 3",
+        "kod": "34-300",
+        "miasto": "Żywiec",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1000",
+        "data_wpisu": "2004-08-10",
+        "laboratorium": "Laboratorium II",
+        "ulica": "Medyków 14",
+        "kod": "40-752",
+        "miasto": "Katowice",
+        "podmiot": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1082",
+        "data_wpisu": "2004-08-17",
+        "laboratorium": "Laboratorium",
+        "ulica": "3-go Maja 13-15",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. Prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1115",
+        "data_wpisu": "2004-08-18",
+        "laboratorium": "Oddział Laboratoryjny - Sekcja Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Moniuszki 25",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1126",
+        "data_wpisu": "2004-08-19",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "Nałkowskiej 27",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \nCentrum Medyczne \" ARKA - MED.\"   Sp.z o.o",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1141",
+        "data_wpisu": "2004-08-23",
+        "laboratorium": "Laboratorium Analityczno-Bakteriologiczne",
+        "ulica": "Bracka 13",
+        "kod": "44-300",
+        "miasto": "Wodzisław Śląski",
+        "podmiot": "Wojewódzki Szpital Chorób Płuc im. dr. Alojzego Pawelca",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1171",
+        "data_wpisu": "2004-08-23",
+        "laboratorium": "Laboratorium Centralne",
+        "ulica": "Waryńskiego 2",
+        "kod": "43-190",
+        "miasto": "Mikołów",
+        "podmiot": "Zespół Opieki Zdrowotnej w Mikołowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1243",
+        "data_wpisu": "2004-08-30",
+        "laboratorium": "Medyczne laboratorium diagnostyczne - Centralne Laboratorium Toksykologii Metali Ciężkich",
+        "ulica": "Cynkowa 6",
+        "kod": "42-610",
+        "miasto": "Miasteczko Śląskie",
+        "podmiot": "Centrum Medyczne „Eko-Prof-Med” Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1255",
+        "data_wpisu": "2004-08-30",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej\n Laboratorium Analityczne I z pracowniami",
+        "ulica": "Pyskowicka 47-51",
+        "kod": "42-612",
+        "miasto": "Tarnowskie Góry",
+        "podmiot": "Wielospecjalistyczny Szpital Powiatowy S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1262",
+        "data_wpisu": "2004-08-31",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Korczaka 27",
+        "kod": "40-340",
+        "miasto": "Katowice",
+        "podmiot": "Centrum Psychiatrii w Katowicach im. dr. Krzysztofa Czumy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1274",
+        "data_wpisu": "2004-08-31",
+        "laboratorium": "Laboratorium Analityczne ,,Zofiówka-Honestus\"",
+        "ulica": "ul. Wodeckiego 21",
+        "kod": "44-335",
+        "miasto": "Jastrzębie Zdrój",
+        "podmiot": "Honestus s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1299",
+        "data_wpisu": "2004-09-01",
+        "laboratorium": "Laboratorium Analityczne ,,Novum\"",
+        "ulica": "uL. Beskidzka PU-137",
+        "kod": "44-335",
+        "miasto": "Jastrzębie Zdrój",
+        "podmiot": "ILONA STACHNIAK",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1333",
+        "data_wpisu": "2004-09-02",
+        "laboratorium": "Pracownia Izotopowa",
+        "ulica": "Francuska 20-24",
+        "kod": "40-027",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego \nŚląskiego Uniwersytetu  Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1404",
+        "data_wpisu": "2004-09-09",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul.Małopolska 134",
+        "kod": "44-335",
+        "miasto": "Jastrzębie Zdrój",
+        "podmiot": "NZOZ, Laboratorium Analityczne s.c. \nB. Majcher P. Majcher",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1453",
+        "data_wpisu": "2004-09-14",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Zegadłowicza 3",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Sosnowiecki Szpital Miejski sp z o.o. w restrukturyzacji",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1491",
+        "data_wpisu": "2004-09-16",
+        "laboratorium": "Laboratorium Analityki Medycznej \nSzpital Chorób Wewnętrznych - \" Hutniczy \"",
+        "ulica": "Aleja Pokoju 44",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny im NMP",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1498",
+        "data_wpisu": "2004-09-16",
+        "laboratorium": "Laboratorium Hematologiczne",
+        "ulica": "Reymonta 8",
+        "kod": "40-027",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu  Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1500",
+        "data_wpisu": "2004-09-16",
+        "laboratorium": "Laboratorium OPTIMA",
+        "ulica": "ul.Wojska Polskiego 4",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \nPrzychodnia Nr 1 OPTIMA Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1522",
+        "data_wpisu": "2004-09-22",
+        "laboratorium": "Laboratorium \"Labomed\"",
+        "ulica": "ul.Wyszyńskiego 31",
+        "kod": "42-300",
+        "miasto": "Myszków",
+        "podmiot": "Zakład Usług Diagnostyczno-Leczniczych \"Labomed\" s.c.\nMaciej Kowalski i Jerzy Smaczny.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1537",
+        "data_wpisu": "2004-09-22",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej \"NIMED\"",
+        "ulica": "Armii Krajowej 57",
+        "kod": "42-520",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \"NIMED\" s.c.\n- Jerzy Niczewski, Ewa Ciuba-Niczewska",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1540",
+        "data_wpisu": "2004-09-22",
+        "laboratorium": "Laboratorium Analiz Lekarskich",
+        "ulica": "Gdańska 15",
+        "kod": "42-210",
+        "miasto": "Częstochowa",
+        "podmiot": "NZOZ, Laboratorium Analiz Lekarskich",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1559",
+        "data_wpisu": "2004-09-22",
+        "laboratorium": "Pracownia Prątka Gruźlicy",
+        "ulica": "ul.Dworcowa 31",
+        "kod": "44-145",
+        "miasto": "Pilchowice",
+        "podmiot": "Szpital Chorób Płuc",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1560",
+        "data_wpisu": "2004-09-22",
+        "laboratorium": "Pracownia Analityczna",
+        "ulica": "ul. Dworcowa 31",
+        "kod": "44-145",
+        "miasto": "Pilchowice",
+        "podmiot": "Szpital Chorób Płuc",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1562",
+        "data_wpisu": "2004-09-23",
+        "laboratorium": "Punkt Analityczny",
+        "ulica": "Powstańców 9",
+        "kod": "41-400",
+        "miasto": "Mysłowice",
+        "podmiot": "Punkt Analityczny - Urszula Smalcerz",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1598",
+        "data_wpisu": "2004-09-28",
+        "laboratorium": "Centrum Diagnostyki Laboratoryjnej",
+        "ulica": "Dubois 16",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "A.M.D. Biuro Informacji i Usług \nCentrum Diagnostyki Laboratoryjnej mgr Eugeniusz Wojnarowski",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1621",
+        "data_wpisu": "2004-09-29",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Zjednoczenia 10",
+        "kod": "41-500",
+        "miasto": "Chorzów",
+        "podmiot": "Szpital Specjalistyczny w Chorzowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1623",
+        "data_wpisu": "2004-09-29",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Niepodległości 8",
+        "kod": "44-190",
+        "miasto": "Knurów",
+        "podmiot": "Zespół Szpitali Powiatu Gliwickiego Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1632",
+        "data_wpisu": "2004-09-29",
+        "laboratorium": "Prywatne Laboratorium Analityczne Jaromin Lucjan",
+        "ulica": "ul. Lipowa 10",
+        "kod": "43-225",
+        "miasto": "Wola k/Pszczyny",
+        "podmiot": "Jaromin Lucjan",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1642",
+        "data_wpisu": "2004-09-30",
+        "laboratorium": "Medyczne Laboratorium Analityczne",
+        "ulica": "ul. Pokoju 17",
+        "kod": "43-143",
+        "miasto": "Lędziny",
+        "podmiot": "Miejski Zespół Opieki Zdrowotnej w Lędzinach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1653",
+        "data_wpisu": "2004-09-30",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "Lipowa 3",
+        "kod": "42-274",
+        "miasto": "Konopiska",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Gminny Ośrodek Zdrowia w Konopiskach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1681",
+        "data_wpisu": "2004-09-30",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "Aleja Legionów 10",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny Nr 4 w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1684",
+        "data_wpisu": "2004-09-30",
+        "laboratorium": "Laboratorium Bakteriologiczne  w Zakładzie Diagnostyki Laboratoryjnej",
+        "ulica": "St. Batorego 15",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Szpital Specjalistyczny Nr 2 w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1703",
+        "data_wpisu": "2004-10-05",
+        "laboratorium": "Oddział Laboratoryjny - Sekcja Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Broniewskiego 21",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Bielsku-Białej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1715",
+        "data_wpisu": "2004-10-05",
+        "laboratorium": "NZOZ Zakład Diagnostyki Medycznej",
+        "ulica": "ul. Adamieckiego 13",
+        "kod": "41-300",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej Zakład Diagnostyki Medycznej Anna Gąsiorek i Wspólnicy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1724",
+        "data_wpisu": "2004-10-07",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Dobrawy 7",
+        "kod": "43-200",
+        "miasto": "Pszczyna",
+        "podmiot": "Centrum Medyczne \"PANACEUM\" sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1757",
+        "data_wpisu": "2004-10-12",
+        "laboratorium": "Dział Laboratoryjny",
+        "ulica": "Sienkiewicza 3 A",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Regionalne Centrum \nKrwiodawstwa i Krwiolecznictwa w Raciborzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1761",
+        "data_wpisu": "2004-10-12",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "Raciborska 26",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Katowickie Centrum Onkologii",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1764",
+        "data_wpisu": "2004-10-12",
+        "laboratorium": "Laboratorium Analityczne  \"ASPER\"",
+        "ulica": "Pl. Św Anny 1",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Centrum Diagnostyczne \"ASPER\" sp z o.o",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1765",
+        "data_wpisu": "2004-10-12",
+        "laboratorium": "Pracownia Mikrobiologiczna  \"ASPER\"",
+        "ulica": "Pl. Św Anny 1",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Centrum Diagnostyczne \"ASPER\" sp z o.o",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1769",
+        "data_wpisu": "2004-10-12",
+        "laboratorium": "Laboratorium analityczne",
+        "ulica": "Uzdrowiskowa 55",
+        "kod": "43-230",
+        "miasto": "Goczałkowice - Zdrój",
+        "podmiot": "Uzdrowisko Goczałkowice-Zdrój sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1774",
+        "data_wpisu": "2004-10-13",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Sienkiewicza 8",
+        "kod": "43-502",
+        "miasto": "Czechowice-Dziedzice",
+        "podmiot": "„Ubezpieczalnia” sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1792",
+        "data_wpisu": "2004-10-13",
+        "laboratorium": "Zakład Szkodliwości Chemicznych\n- Pracownia Analiz Metali",
+        "ulica": "Kościelna 13",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Instytut Medycyny Pracy i Zdrowia Środowiskowego",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1810",
+        "data_wpisu": "2004-10-14",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Grunwaldzka 9",
+        "kod": "42-700",
+        "miasto": "Lubliniec",
+        "podmiot": "SP ZOZ w Lublińcu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1832",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Piotra Skargi 2",
+        "kod": "41-407",
+        "miasto": "Imielin",
+        "podmiot": "SPZOZ w Imielinie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1858",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne w Wilamowicach",
+        "ulica": "Paderewskiego 15a",
+        "kod": "43-330",
+        "miasto": "Wilamowice",
+        "podmiot": "Niepubliczne Laboratorium Analityczne\n-Elżbieta Gregorczyk- w Wilamowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1859",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium  Analityczne",
+        "ulica": "ul.ZBOWiDU 1",
+        "kod": "42-506",
+        "miasto": "Będzin",
+        "podmiot": "Niepubliczne Poradnie Lekarskie Medica Sp.z o.o.\nNiepubliczny Zakład Opieki Zdrowotnej Medica",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1864",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Chełmońskiego 28",
+        "kod": "43-600",
+        "miasto": "Jaworzno",
+        "podmiot": "Szpital Wielospecjalistyczny  w Jaworznie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1866",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "NZOZ Gabinet Lekarski Laboratorium Analiz Lekarskich",
+        "ulica": "ul. Farna 14",
+        "kod": "43-600",
+        "miasto": "Jaworzno",
+        "podmiot": "Gabinet Lekarski. \nLaboratorium Analiz Lekarskich. Bogdali Władysław.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1884",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Rudzkie Laboratorium Analityczno-Bakteriologiczne",
+        "ulica": "ul. Solskiego 15",
+        "kod": "41-712",
+        "miasto": "Ruda Śląska",
+        "podmiot": "KORLAB Laboratoria Medyczne sp. z o.o. sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1897",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Oddział Laboratoryjny\nSekcja Badań Mikrobiologicznych, Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Kościuszki 58",
+        "kod": "42-500",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1909",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Batorego 15",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Szpital Specjalistyczny Nr 2 w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1916",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "Bialska 104/118",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny\n im. N.M.P w Częstochowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1918",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Strzelców Bytomskich 11",
+        "kod": "41-500",
+        "miasto": "Chorzów",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej \nZespół Szpitali Miejskich",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1926",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium mikrobiologiczno-analityczne",
+        "ulica": "Popiełuszki 16",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Laboratorium mikrobiologiczno-analityczne mgr Agnieszka Jędryka-Sikora",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1934",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul.Byłych Więżniów Poltycznych 3",
+        "kod": "44-200",
+        "miasto": "Rybnik",
+        "podmiot": "NZOZ, Laboratorium Analityczne s.c.  V. Słapa-Uznańska, J.Parzonek",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1963",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Mikrobiologiczne",
+        "ulica": "Gamowska 3",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Szpital Rejonowy im. dr. Józefa Rostka w Raciborzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1982",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Żywiecka 19",
+        "kod": "43-365",
+        "miasto": "Wilkowice",
+        "podmiot": "SPZOZ Szpital Kolejowy w Wilkowicach-Bystrej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "1996",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "NZOZ Laboratorium  Mikrobiologiczne LABOMED Sp. z o.o.",
+        "ulica": "Zygmunta Starego 16 A",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Labomed Sp.z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2001",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Gen J. Ziętka 30",
+        "kod": "41-940",
+        "miasto": "Piekary  Śląskie",
+        "podmiot": "Laboratorium Analityczne  Urszula Baner",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2002",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Centralne Laboratorium Analityczne „Laboratorium na Mickiewicza”",
+        "ulica": "Mickiewicza 9",
+        "kod": "40-092",
+        "miasto": "Katowice",
+        "podmiot": "Samodzielny Publiczny Zakład Lecznictwa Ambulatoryjnego w Katowicach „Moja Przychodnia”",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2008",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Bakteriologiczne",
+        "ulica": "ul.Miodowa 14",
+        "kod": "42-440",
+        "miasto": "Zawiercie",
+        "podmiot": "Szpital Powiatowy w Zawierciu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2010",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "Podmiejska",
+        "kod": "44-207",
+        "miasto": "Rybnik",
+        "podmiot": "NZOZ \"Przy Elektrowni\" Korporacji Medycznej KMK Sp z. o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2021",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Analityczne",
+        "ulica": "ul. Młodzieżowa 21",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Beskidzkie Centrum Medyczne Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2047",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Wrocławska 4",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Zakład Opieki Zdrowotnej Aresztu Śledczego w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2058",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne I Laboratorium Analityczne",
+        "ulica": "ul. Wincentego Lipa 2",
+        "kod": "41-703",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Szpital Miejski w Rudzie Śląskiej Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2059",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne II Laboratorium Analityczne",
+        "ulica": "ul. Główna 11",
+        "kod": "41-711",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Szpital Miejski w Rudzie Śląskiej Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2069",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Mikrobiologii",
+        "ulica": "ul.  Wolności 345a",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "NZOZ \"Fundacja Rozwoju Kardiochirurgii Homograft\" sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2070",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Centralne Laboratorium",
+        "ulica": "ul. Lompy 16",
+        "kod": "40-038",
+        "miasto": "Katowice",
+        "podmiot": "Zespół Wojewódzkich Przychodni Specjalistycznych w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2071",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Zamkowa 4",
+        "kod": "41-803",
+        "miasto": "Zabrze",
+        "podmiot": "Szpital Miejski w Zabrzu Spółka z ograniczona odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2075",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Częstochowska 1",
+        "kod": "42-164",
+        "miasto": "Parzymiechy",
+        "podmiot": "Ośrodek Terapii Uzależnień od Alkoholu w Parzymiechach w likwidacji",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2090",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium MED-LAB-SUCHANEK",
+        "ulica": "Stawowa 2A",
+        "kod": "43-450",
+        "miasto": "Ustroń",
+        "podmiot": "Laboratorium MED-LAB-SUCHANEK Karolina Suchanek-Solowska",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2140",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Gamowska 3",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Szpital Rejonowy im. dr. Józefa Rostka w Raciborzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2143",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Mikrobiologiczne",
+        "ulica": "ul. Strzelców Bytomskich 11",
+        "kod": "41-500",
+        "miasto": "Chorzów",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Szpitali Miejskich",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2144",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul.Kościuszki 1",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Szpital Wielospecjalistyczny \nSpółka  z  ograniczoną odpowiedziwlnością w Gliwicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2158",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "NZOZ Laboratorium Alergo Diagnostics",
+        "ulica": "Sobieskiego 7a pokój 08 b",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "NZOZ Laboratorium Alergo Diagnostics",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2160",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Baczyńskiego 14",
+        "kod": "41-203",
+        "miasto": "Sosnowiec",
+        "podmiot": "SPZOZ Przychodnia Rejonowo-Specjalistyczna \"MILOWICE\"",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2163",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Laboratorium Analiz Medycznych \"GRAN-MED\" mgr Wioleta Grela",
+        "ulica": "Kościelna 24",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Wioleta Grela",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2167",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Zakład Mikrobiologii Klinicznej",
+        "ulica": "Bialska 104/118",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny w Częstochowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2169",
+        "data_wpisu": "2004-10-15",
+        "laboratorium": "Pracownia Izotopowa",
+        "ulica": "St. Batorego 15",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Szpital Specjalistyczny Nr 2 w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2183",
+        "data_wpisu": "2004-10-26",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Dąbrowskiego 20",
+        "kod": "44-240",
+        "miasto": "Żory",
+        "podmiot": "Miejskie Zakłady Opieki Zdrowotnej w Żorach, sp z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2207",
+        "data_wpisu": "2004-10-21",
+        "laboratorium": "Pracownia diagnostyki laboratoryjnej",
+        "ulica": "ul. Szpitalna 11",
+        "kod": "43-450",
+        "miasto": "Ustroń",
+        "podmiot": "Śląskie Centrum Reumatologii im. gen. Jerzego Ziętka w Ustroniu Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2220",
+        "data_wpisu": "2004-10-30",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Oś Księcia Władysława 27",
+        "kod": "44-240",
+        "miasto": "Żory",
+        "podmiot": "NZOZ \"MEDYK\" sp z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2221",
+        "data_wpisu": "2004-10-03",
+        "laboratorium": "Pracownia Diagnostyki Mikrobiologicznej",
+        "ulica": "26 Marca 164",
+        "kod": "44-300",
+        "miasto": "Wodzisław Śląski",
+        "podmiot": "Szpital Powiatowy w Wodzisławiu Śląskim",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2237",
+        "data_wpisu": "2004-10-25",
+        "laboratorium": "Pracownia Patomorfologii",
+        "ulica": "Powstańców 31",
+        "kod": "40-038",
+        "miasto": "Katowice",
+        "podmiot": "Zespół Wojewódzkich Przychodni Specjalistycznych",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2250",
+        "data_wpisu": "2004-10-26",
+        "laboratorium": "NZOZ Laboratorium Analityczne \"Twoje Zdrowie\"",
+        "ulica": "ul. Wyzwolenia 19",
+        "kod": "44-341",
+        "miasto": "Gołkowice",
+        "podmiot": "Grzegorz Musioł",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2254",
+        "data_wpisu": "2004-09-25",
+        "laboratorium": "Laboratorium Mikrobiologiczne",
+        "ulica": "Czecha 21",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "NZOZ Laboratorium Mikrobiologiczne mgr Elżbieta Słabisz",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2287",
+        "data_wpisu": "2004-11-23",
+        "laboratorium": "Niepubliczny Zakład Opieki Zdrowotnej s.c. Lab-Test",
+        "ulica": "ul. Bażantów 47/2",
+        "kod": "40-668",
+        "miasto": "Katowice",
+        "podmiot": "LAB-TEST Medyczne Laboratorium Diagnostyczne Nadia Nicpoń, Magdalena Bielesz s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2310",
+        "data_wpisu": "2004-12-15",
+        "laboratorium": "PRACOWNIA SEROLOGII – BANK KRWI",
+        "ulica": "Miodowa 14",
+        "kod": "42-400",
+        "miasto": "Zawiercie",
+        "podmiot": "Szpital Powiatowy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2313",
+        "data_wpisu": "2004-12-20",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Sanatoryjna 7",
+        "kod": "43-450",
+        "miasto": "Ustroń",
+        "podmiot": "American Heart of Poland Spółka Akcyjna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2319",
+        "data_wpisu": "2004-12-20",
+        "laboratorium": "Sekcja Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. Budowlanych 131",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2339",
+        "data_wpisu": "2005-01-11",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Ocicka 51a",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Centrum Zdrowia Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2374",
+        "data_wpisu": "2005-03-07",
+        "laboratorium": "FACTOR Laboratorium medyczne. NZOZ",
+        "ulica": "ul. Cicha 2",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "FACTOR Laboratorium medyczne NZOZ Andrzej Krakowiak",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2375",
+        "data_wpisu": "2005-03-07",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej",
+        "ulica": "Krucza 12",
+        "kod": "43-251",
+        "miasto": "Pniówek",
+        "podmiot": "\"Zdrowie\" Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2397",
+        "data_wpisu": "2005-04-19",
+        "laboratorium": "Laboratorium Mikrobiologiczne Katedry i Zakładu Mikrobiologii i Immunologii w Zabrzu Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "ulica": "ul. Jordana 19",
+        "kod": "41-808",
+        "miasto": "Zabrze",
+        "podmiot": "Śląski Uniwersytet Medyczny w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2421",
+        "data_wpisu": "2005-05-17",
+        "laboratorium": "Laboratorium  Analityczne",
+        "ulica": "ul. Siemonska 11",
+        "kod": "42-503",
+        "miasto": "Będzin",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \"Promed\" \nPrzychodnia Rejonowo-Specjalistyczna Nr 1",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2431",
+        "data_wpisu": "2005-06-22",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "Kolejowa 19a",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "NZOZ Centrum Medyczne ESKULAP sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2433",
+        "data_wpisu": "2005-06-27",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Wawel 15",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2434",
+        "data_wpisu": "2005-06-27",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka, Dąbrowa Górnicza, ul. Szpitalna 13, Filia w Dąbrowie Górniczej, ul. Piłsudskiego 92",
+        "ulica": "ul. Piłsudskiego 92",
+        "kod": "41-308",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2437",
+        "data_wpisu": "2005-06-29",
+        "laboratorium": "Laboratorium Analityczne z Pracownią Serologii Transfuzjologicznej",
+        "ulica": "Sokołowskiego 2",
+        "kod": "40-749",
+        "miasto": "Katowice",
+        "podmiot": "Szpital Murcki Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2439",
+        "data_wpisu": "2005-06-29",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Bojkowska 18 A",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Przychodnia Przyzakładowa \nprzy Gliwickim Przedsiębiorstwie Budownictwa Przemysłowego S.A. w Gliwicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2452",
+        "data_wpisu": "2005-08-16",
+        "laboratorium": "Laboratorium Medyczne ALFA",
+        "ulica": "Powstańców Śląskich 1",
+        "kod": "34-300",
+        "miasto": "Żywiec",
+        "podmiot": "NZOZ Laboratorium Medyczne ALFA",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2465",
+        "data_wpisu": "2005-08-17",
+        "laboratorium": "Laboratorium „ AL–MED”",
+        "ulica": "Naftowa 35",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej , \nCentrum Diagnostyki Laboratoryjnej „ Al – Med ” s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2499",
+        "data_wpisu": "2005-09-29",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Wojska Polskiego 10",
+        "kod": "44-120",
+        "miasto": "Pyskowice",
+        "podmiot": "Centralne Laboratorium Analityczno-Medyczne",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2502",
+        "data_wpisu": "2005-10-04",
+        "laboratorium": "Pracownia Prątka Kocha",
+        "ulica": "Bony 1/3",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej \nMiejski Szpital Zespolony w Częstochowie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2503",
+        "data_wpisu": "2005-10-04",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "Adama Mickiewicza 12",
+        "kod": "42-217",
+        "miasto": "Częstochowa",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2504",
+        "data_wpisu": "2005-10-04",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Mirowska 15",
+        "kod": "42-202",
+        "miasto": "Częstochowa",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2505",
+        "data_wpisu": "2005-10-04",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Bony Sforzy 1/3",
+        "kod": "42-226",
+        "miasto": "Częstochowa",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2508",
+        "data_wpisu": "2005-10-18",
+        "laboratorium": "Laboratorium Analiz Lekarskich",
+        "ulica": "ul..Kiedrzyńska 81 A",
+        "kod": "42-215",
+        "miasto": "Częstochowa",
+        "podmiot": "Zakład Usług Zdrowotnych i Innych \" Kiedrzyńska \" Sp. z o.o",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2518",
+        "data_wpisu": "2005-11-03",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Ignacego Paderewskiego 11",
+        "kod": "44-120",
+        "miasto": "Pyskowice",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej Centrum Usług Medycznych AA \"Remedium\" Awramienko Spółka Jawna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2520",
+        "data_wpisu": "2005-11-03",
+        "laboratorium": "Laboratorium Analityki Medycznej",
+        "ulica": "ul.Dekabrystów 17/19",
+        "kod": "42-218",
+        "miasto": "Częstochowa",
+        "podmiot": "\"Combi-Med\" Sp. z ograniczona odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2524",
+        "data_wpisu": "2005-11-15",
+        "laboratorium": "Laboratorium",
+        "ulica": "Ogrodowa 6",
+        "kod": "43-450",
+        "miasto": "Ustroń",
+        "podmiot": "Ośrodek Medycyny Prewencyjnej i Opieki Kompleksowej Henryk i Alina Wieja",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2529",
+        "data_wpisu": "2005-11-28",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Istebna 500",
+        "kod": "43-470",
+        "miasto": "Istebna",
+        "podmiot": "Wojewódzkie Centrum Pediatrii \"Kubalonka\" w Istebnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2532",
+        "data_wpisu": "2005-11-28",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Traugutta 12",
+        "kod": "43-302",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Obwód Lecznictwa Kolejowego- \nSamodzielny Publiczny Zakład Opieki  Zdrowotnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2540",
+        "data_wpisu": "2005-12-14",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Zbigniewa Oleśnickiego 21",
+        "kod": "42-470",
+        "miasto": "Siewierz",
+        "podmiot": "Szpital Chorób Płuc w Siewierzu Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2574",
+        "data_wpisu": "2006-03-01",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Miodowa 14",
+        "kod": "42-400",
+        "miasto": "Zawiercie",
+        "podmiot": "Szpital Powiatowy Zawiercie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2575",
+        "data_wpisu": "2006-03-01",
+        "laboratorium": "Laboratorium analityczne",
+        "ulica": "Zdrowotna 845",
+        "kod": "43-385",
+        "miasto": "Jasienica",
+        "podmiot": "Samodzielny Gminny Zakład Opieki Zdrowotnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2595",
+        "data_wpisu": "2006-05-29",
+        "laboratorium": "Pracownia Analityki Laboratoryjnej",
+        "ulica": "ul. Klasztorna 9 B",
+        "kod": "47-420",
+        "miasto": "Kuźnia Raciborska",
+        "podmiot": "Zakład Lecznictwa Ambulatoryjnego \"Amicus-Med.\" sp. z o.o..\nPoradnia Lekarza POZ",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2611",
+        "data_wpisu": "2006-07-24",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej (laboratorium)",
+        "ulica": "Opolska 18",
+        "kod": "44-100",
+        "miasto": "Gliwice",
+        "podmiot": "Obwód Lecznictwa Kolejowego w Gliwicach  SPZOZ",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2612",
+        "data_wpisu": "2006-08-07",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "Aleja Jana Pawła II 7",
+        "kod": "44-330",
+        "miasto": "Jastrzębie Zdrój",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2627",
+        "data_wpisu": "2006-10-20",
+        "laboratorium": "Pracownia Analityczna",
+        "ulica": "ul. Słoneczna 83",
+        "kod": "43-384",
+        "miasto": "Jaworze",
+        "podmiot": "Beskidzki Zespół Leczniczo - Rehabilitacyjny Szpital Opieki Długoterminowej w Jaworzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2643",
+        "data_wpisu": "2006-11-22",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Józefa Sułkowskiego 17",
+        "kod": "42-202",
+        "miasto": "Częstochowa",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2658",
+        "data_wpisu": "2007-01-03",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "M.Skłodowskiej - Curie 10",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Dr n. med. Teresa Fryda Laboratorium Medyczne sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2675",
+        "data_wpisu": "2007-02-12",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Wolności 99",
+        "kod": "41-700",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej \"Silesia\"",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2696",
+        "data_wpisu": "2007-05-15",
+        "laboratorium": "Laboratorium Analityki Medycznej \nZakładu Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Oddziałów Młodzieży Powstańczej 14",
+        "kod": "41-707",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Zakład Diagnostyki Laboratoryjnej Fundacji ”Unia Bracka”",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2713",
+        "data_wpisu": "2007-06-21",
+        "laboratorium": "Dział Laboratoryjny",
+        "ulica": "Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2714",
+        "data_wpisu": "2007-06-21",
+        "laboratorium": "Dział Immunologii Transfuzjologicznej",
+        "ulica": "Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2719",
+        "data_wpisu": "2007-06-27",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Górnicza 44",
+        "kod": "44-335",
+        "miasto": "Jastrzębie Zdrój",
+        "podmiot": "Fundacja Ochrony Zdrowia \ni Pomocy Społecznej w Jastrzębiu Zdroju. NZOZ.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2734",
+        "data_wpisu": "2007-08-20",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Truchana 7",
+        "kod": "41-500",
+        "miasto": "Chorzów",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Szpitali Miejskich",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2738",
+        "data_wpisu": "2007-09-04",
+        "laboratorium": "Laboratorium Analityczne(zawieszona działalność)",
+        "ulica": "ul. Armii Krajowej 2",
+        "kod": "42-230",
+        "miasto": "Koniecpol",
+        "podmiot": "Samodzielny Publiczny Zakład Opieki Zdrowotnej \nMiejska Przychodnia Rejonowa w Koniecpolu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2740",
+        "data_wpisu": "2007-09-14",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Wawelska 7",
+        "kod": "41-700",
+        "miasto": "Ruda Śląska",
+        "podmiot": "Niepubliczny Zakład Opieki Zdowotnej - Przychodnia Lekarska S.C.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2749",
+        "data_wpisu": "2007-11-06",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. św. Andrzeja Boboli 20",
+        "kod": "43-316",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "American Heart of Poland Spółka Akcyjna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2752",
+        "data_wpisu": "2007-11-12",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Olchowa 16 c",
+        "kod": "44-144",
+        "miasto": "Żernica",
+        "podmiot": "MED-PROFIL NZOZ Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2759",
+        "data_wpisu": "2007-12-05",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Sosnowa 16",
+        "kod": "42-290",
+        "miasto": "Blachownia",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2783",
+        "data_wpisu": "2008-03-19",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej z pracowniami",
+        "ulica": "Wolności 29",
+        "kod": "42-300",
+        "miasto": "Myszków",
+        "podmiot": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2788",
+        "data_wpisu": "2008-04-10",
+        "laboratorium": "Pracownia Immunogenetyki Układu HLA",
+        "ulica": "Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2794",
+        "data_wpisu": "2008-05-05",
+        "laboratorium": "Pracownia Analityczna",
+        "ulica": "Gliwicka 28",
+        "kod": "44-153",
+        "miasto": "Sośnicowice",
+        "podmiot": "SPZOZ Miejsko-Gminny Ośrodek Zdrowia\nw Sośnicowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2797",
+        "data_wpisu": "2008-05-12",
+        "laboratorium": "Zakład Genetyki Klinicznej i Molekularnej",
+        "ulica": "ul. Wybrzeże Armii Krajowej 15",
+        "kod": "44-102",
+        "miasto": "Gliwice",
+        "podmiot": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2804",
+        "data_wpisu": "2008-06-11",
+        "laboratorium": "Laboratorium Analityczne „VITAMED”",
+        "ulica": "Andersa 22",
+        "kod": "44-370",
+        "miasto": "Pszów",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej „VITAMED” \nSpółka z ograniczoną odpowiedzialnością.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2808",
+        "data_wpisu": "2008-07-11",
+        "laboratorium": "Pracownia Mykologii i Biocenozy Pochwy",
+        "ulica": "Sienkiewicz 28",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "ARTMED sp.z o.o.  \nNZOZ  Przychodnia Lekarska \"SPECJAL-MED\"",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2812",
+        "data_wpisu": "2008-07-30",
+        "laboratorium": "Oddział Laboratoryjny,\nSekcja Badań Chorób Zakaźnych i Zakażeń",
+        "ulica": "ul. 11 Listopada 15",
+        "kod": "42-400",
+        "miasto": "Zawiercie",
+        "podmiot": "Powiatowa Stacja Sanitarno-Epidemiologiczna w Zawierciu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2820",
+        "data_wpisu": "2008-09-18",
+        "laboratorium": "Pracownia Analityczna - (zawieszona działalność)",
+        "ulica": "ul. Rynek 2a",
+        "kod": "34-370",
+        "miasto": "Rajcza",
+        "podmiot": "Praktyka Grupowa Lekarzy \nPodstawowej Opieki Zdrowotnej s.c. w Rajczy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2832",
+        "data_wpisu": "2008-12-08",
+        "laboratorium": "Laboratorium analityczne",
+        "ulica": "Mały Rynek 1",
+        "kod": "43-430",
+        "miasto": "Skoczów",
+        "podmiot": "NZOZ \"Laboratorium analityczne \" s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2865",
+        "data_wpisu": "2009-05-25",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "Szpitalna 13",
+        "kod": "41-300",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2901",
+        "data_wpisu": "2009-08-12",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Oświęcimska 39",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2906",
+        "data_wpisu": "2009-09-03",
+        "laboratorium": "Laboratorium  Analityczne",
+        "ulica": "ul. Działkowiczów 20",
+        "kod": "42-242",
+        "miasto": "Rędziny",
+        "podmiot": "NZOZ Przychodnia Lekarska \nlek.med. Agata i Paweł Dydoń s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2923",
+        "data_wpisu": "2009-10-07",
+        "laboratorium": "Laboratorium Analiz Lekarskich mgr Lidia Zegadło",
+        "ulica": "Michałowskiego 17",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "NZOZ Laboratorium Analiz Lekarskich mgr Lidia Zegadło",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2952",
+        "data_wpisu": "2009-12-01",
+        "laboratorium": "Zakład Patologii Nowotworów",
+        "ulica": "ul. Wybrzeże Armii Krajowej 15",
+        "kod": "44-102",
+        "miasto": "Gliwice",
+        "podmiot": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2954",
+        "data_wpisu": "2009-12-03",
+        "laboratorium": "HISTAMED",
+        "ulica": "ul. Wielicka 16",
+        "kod": "44-103",
+        "miasto": "Gliwice",
+        "podmiot": "HISTAMED spółka partnerska lekarzy D. Lange, Z. Mielcarzewicz, A. Smok-Ragankiewicz",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2965",
+        "data_wpisu": "2010-01-07",
+        "laboratorium": "Cieszyński Ośrodek Patomorfologii „INTRA”",
+        "ulica": "Żwirki i Wigury 11",
+        "kod": "43-400",
+        "miasto": "Cieszyn",
+        "podmiot": "Cieszyński Ośrodek Patomorfologii „INTRA” NZOZ P. Wandzel H.Molak-Olczak Sp. Jawna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "2994",
+        "data_wpisu": "2010-03-19",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "Kłodnicka 23",
+        "kod": "40-703",
+        "miasto": "Katowice",
+        "podmiot": "NZOZ, Centrum Medyczne FEMINA s.c.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3017",
+        "data_wpisu": "2010-05-21",
+        "laboratorium": "Centrum Medyczne ANTRUM \nLaboratorium DEMETER  Stanisław Horák",
+        "ulica": "Olimpijska 5",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "Stanisław Horák",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3018",
+        "data_wpisu": "2010-05-21",
+        "laboratorium": "Centrum Diagnostyki Laboratoryjnej",
+        "ulica": "Plac Medyków 1",
+        "kod": "41-200",
+        "miasto": "Sosnowiec",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny Nr 5 im. św. Barbary w Sosnowcu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3024",
+        "data_wpisu": "2010-07-20",
+        "laboratorium": "Laboratorium Mikrobiologiczne",
+        "ulica": "ul. Czecha 21",
+        "kod": "42-224",
+        "miasto": "Częstochowa",
+        "podmiot": "NZOZ Laboratorium Mikrobiologiczne Sławomir Słabisz",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3026",
+        "data_wpisu": "2010-07-23",
+        "laboratorium": "Pracownia Diagnostyki Laboratoryjnej \n(Laboratorium)",
+        "ulica": "ul. Fabryczna 13D",
+        "kod": "40-611",
+        "miasto": "Katowice",
+        "podmiot": "Provita Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3027",
+        "data_wpisu": "2010-07-23",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul. Kolberga 2",
+        "kod": "41-403",
+        "miasto": "Chełm Śląski",
+        "podmiot": "Zakład Opieki Zdrowotnej w Chełmie Śląskim",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3042",
+        "data_wpisu": "2010-09-06",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Bukowa 1",
+        "kod": "43-267",
+        "miasto": "Suszec",
+        "podmiot": "NZOZ Spółka Partnerska Lekarzy \nE.Kozubski, L.Romańska-Kozubska, M.Guzek",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3047",
+        "data_wpisu": "2010-10-06",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "Tetmajera 150",
+        "kod": "44-280",
+        "miasto": "Rydułtowy",
+        "podmiot": "NZOZ Laboratorium Analityczne s.c. \nJolanta Matuszek Daniela Korbel",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3071",
+        "data_wpisu": "2010-12-22",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka",
+        "ulica": "ul. Markiefki 87",
+        "kod": "40-211",
+        "miasto": "Katowice",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3105",
+        "data_wpisu": "2011-04-12",
+        "laboratorium": "Laboratorium Analiz Lekarskich ALAB Wodzisław Śląski",
+        "ulica": "ul. Radlińska 68",
+        "kod": "44-300",
+        "miasto": "Wodzisław Śląski",
+        "podmiot": "ALAB laboratoria Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3121",
+        "data_wpisu": "2011-06-22",
+        "laboratorium": "Laboratorium Analiz Medycznych",
+        "ulica": "Powstańców Śląskich 85",
+        "kod": "42-701",
+        "miasto": "Lubliniec",
+        "podmiot": "EthosEnergy Poland Spółka Akcyjna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3127",
+        "data_wpisu": "2011-07-07",
+        "laboratorium": "Mesyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Dworcowa 21",
+        "kod": "42-289",
+        "miasto": "Woźniki",
+        "podmiot": "Gminny Zespół Ośrodków Zdrowia w Woźnikach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3134",
+        "data_wpisu": "2011-08-18",
+        "laboratorium": "Zakład Bakteriologii",
+        "ulica": "Ziołowa 45/47",
+        "kod": "40-635",
+        "miasto": "Katowice",
+        "podmiot": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca \nŚląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3146",
+        "data_wpisu": "2011-09-19",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "Plebiscytowa 47",
+        "kod": "44-280",
+        "miasto": "Rydułtowy",
+        "podmiot": "dr n.med.Teresa Fryda Laboratorium Medyczne sp.  z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3194",
+        "data_wpisu": "2012-03-13",
+        "laboratorium": "Pracownia Immunologii Transfuzjologicznej z Bankiem Krwi",
+        "ulica": "Aleja Legionów 10",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "SP ZOZ Wojewódzki Szpital Specjalistyczny Nr 4 w Bytomiu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3201",
+        "data_wpisu": "2012-03-20",
+        "laboratorium": "ŚLA Medyczne Laboratorium Diagnostyczne Częstochowa",
+        "ulica": "Aleja Najświętszej Maryi Panny 5",
+        "kod": "42-202",
+        "miasto": "Częstochowa",
+        "podmiot": "badaj.to Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3210",
+        "data_wpisu": "2012-04-02",
+        "laboratorium": "Laboratorium Analityczne",
+        "ulica": "ul.Sądowa 27",
+        "kod": "42-270",
+        "miasto": "Kłomnice",
+        "podmiot": "Niepubliczny Zakład Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3227",
+        "data_wpisu": "2012-06-12",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej i Mikrobiologicznej",
+        "ulica": "Edukacji 102",
+        "kod": "43-100",
+        "miasto": "Tychy",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny, Megrez sp z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3254",
+        "data_wpisu": "2012-11-22",
+        "laboratorium": "Laboratorium Diagnostyczne",
+        "ulica": "ul. Zielonogórska 25",
+        "kod": "41-218",
+        "miasto": "Sosnowiec",
+        "podmiot": "MMed Laboratorium Diagnostyczne\nRenata Celniaszek",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3256",
+        "data_wpisu": "2012-11-22",
+        "laboratorium": "Pracownia Cytogenetyki i Genetyki Molekularnej",
+        "ulica": "ul. 3-Maja 13-15",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. Prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3275",
+        "data_wpisu": "2013-01-24",
+        "laboratorium": "DOROTA MIŚKIEWICZ LABORATORIUM ANALIZ LEKARSKICH  \"MEDOR\"",
+        "ulica": "ul. Mykanowska 15A",
+        "kod": "42-240",
+        "miasto": "Kościelec",
+        "podmiot": "Dorota Miśkiewicz",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3283",
+        "data_wpisu": "2013-01-24",
+        "laboratorium": "Pracownia diagnostyki laboratoryjnej",
+        "ulica": "Majdanek 6",
+        "kod": "42-700",
+        "miasto": "Lubliniec",
+        "podmiot": "NZOZ Pogotowie Ratunkowe \"SAWMED\"\nPodstawowa i Specjalistyczna Opieka Zdrowotna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3284",
+        "data_wpisu": "2013-01-24",
+        "laboratorium": "Pracownia diagnostyki laboratoryjnej",
+        "ulica": "ul. Mickiewicza 8",
+        "kod": "42-600",
+        "miasto": "Tarnowskie Góry",
+        "podmiot": "NZOZ \"BI-MED\" Wojciech Bichalski",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3289",
+        "data_wpisu": "2013-01-24",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne KORLAB\n przy Piekarskim Centrum Medycznym",
+        "ulica": "Szpitalna 11",
+        "kod": "41-940",
+        "miasto": "Piekary Śl.",
+        "podmiot": "KORLAB Laboratoria Medyczne \nsp. z o.o. sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3290",
+        "data_wpisu": "2013-01-24",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne KORLAB \nprzy Szpitalu Specjalistycznym MED HOLDING SA w Katowicach",
+        "ulica": "Strzelecka 9",
+        "kod": "40-073",
+        "miasto": "Katowice",
+        "podmiot": "KORLAB Laboratoria Medyczne \nsp. z o.o. sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3292",
+        "data_wpisu": "2013-02-28",
+        "laboratorium": "Laboratorium Analiz Lekarskich ALAB Katowice Kościuszki",
+        "ulica": "ul. Generała Tadeusza Kościuszki 92B",
+        "kod": "40-519",
+        "miasto": "Katowice",
+        "podmiot": "ALAB laboratoria Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3298",
+        "data_wpisu": "2013-03-22",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka, Katowice, ul. Ignacego Paderewskiego 32 c, Filia w Tarnowskich Górach, ul. Piłsudskiego 16",
+        "ulica": "ul. Marszałka Józefa Piłsudskiego 16",
+        "kod": "42-600",
+        "miasto": "Tarnowskie Góry",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3307",
+        "data_wpisu": "2013-04-26",
+        "laboratorium": "Laboratorium analiz medycznych",
+        "ulica": "Aleja Wolności 46",
+        "kod": "42-217",
+        "miasto": "Częstochowa",
+        "podmiot": "Nasza Przychodnia sp z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3348",
+        "data_wpisu": "2013-09-13",
+        "laboratorium": "Pracownia analityki ogólnej",
+        "ulica": "Matejki 29 EF",
+        "kod": "41-902",
+        "miasto": "Bytom",
+        "podmiot": "NZOZ Centrane Laboratorium Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3349",
+        "data_wpisu": "2013-09-13",
+        "laboratorium": "Pracownia analityki ogólnej",
+        "ulica": "Orzegowska 52A",
+        "kod": "41-906",
+        "miasto": "Bytom",
+        "podmiot": "NZOZ Centrane Laboratorium Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3354",
+        "data_wpisu": "2013-10-18",
+        "laboratorium": "Laboratorium Medyczne Synevo Sosnowiec",
+        "ulica": "ul. Dworska 26 B",
+        "kod": "41-219",
+        "miasto": "Sosnowiec",
+        "podmiot": "SYNEVO Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3363",
+        "data_wpisu": "2013-11-08",
+        "laboratorium": "Pracownia Mykologiczna",
+        "ulica": "Marii Curie-Skłodowskiej 10",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Szpital Specjalistyczny w Zabrzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3375",
+        "data_wpisu": "2014-01-10",
+        "laboratorium": "Laboratorium Medyczne GynCentrum",
+        "ulica": "ul. Żelazna 1",
+        "kod": "40-851",
+        "miasto": "Katowice",
+        "podmiot": "Gyncentrum Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3406",
+        "data_wpisu": "2014-03-21",
+        "laboratorium": "Pracownia diagnostyki laboratoryjnej",
+        "ulica": "ul. Długa 34a",
+        "kod": "41-300",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Piotr Mitręga, Centrum Medyczne MED-LAB Mitręga Piotr",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3432",
+        "data_wpisu": "2014-07-10",
+        "laboratorium": "Laboratorium Medyczne  \"LAB-MED\"",
+        "ulica": "Raciborska 9",
+        "kod": "44-153",
+        "miasto": "Sośnicowice",
+        "podmiot": "Przedsiębiorstwo Produkcyjno Usługowo Handlowe BOR_POL Mariusz Borkowski",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3444",
+        "data_wpisu": "2014-09-08",
+        "laboratorium": "Laboratorium",
+        "ulica": "Św. Barbary 1",
+        "kod": "41-900",
+        "miasto": "Zabrze",
+        "podmiot": "Śląski Ośrodek Onkologii \"Sanivitas\" Spółka z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3449",
+        "data_wpisu": "2014-09-08",
+        "laboratorium": "Laboratorium Diagnostyki Medycznej testDNA",
+        "ulica": "Feliksa Bocheńskiego 38a",
+        "kod": "40-135",
+        "miasto": "Katowice",
+        "podmiot": "TESTDNA Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3457",
+        "data_wpisu": "2014-10-22",
+        "laboratorium": "Laboratorium Analiz Lekarskich ALAB Siemianowice Śląskie",
+        "ulica": "ul. 1 Maja 9",
+        "kod": "41-100",
+        "miasto": "Siemianowice Śląskie",
+        "podmiot": "ALAB laboratoria Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3468",
+        "data_wpisu": "2014-12-04",
+        "laboratorium": "Laboratorium Medyczne GynCentrum\n–oddział Bielsko-Biała",
+        "ulica": "ul. Jana Sobieskiego  89/49",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Gyncentrum Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3487",
+        "data_wpisu": "2015-03-24",
+        "laboratorium": "Laboratorium Medyczne GynCentrum - oddział Częstochowa",
+        "ulica": "ul. Kozielewskiego  9",
+        "kod": "42-218",
+        "miasto": "Częstochowa",
+        "podmiot": "Gyncentrum Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3522",
+        "data_wpisu": "2015-06-29",
+        "laboratorium": "Laboratorium Katedry Patofizjologii",
+        "ulica": "ul. Medyków 18",
+        "kod": "40-752",
+        "miasto": "Katowice",
+        "podmiot": "Śląski Uniwersytet Medyczny w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3527",
+        "data_wpisu": "2015-09-01",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Bytomska 41",
+        "kod": "32-318",
+        "miasto": "Mysłowice",
+        "podmiot": "KORLAB Laboratoria Medyczne sp. z o.o. sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3548",
+        "data_wpisu": "2015-11-25",
+        "laboratorium": "Laboratorium Analiz Medycznych Bio-Diagnostyka Częstochowa",
+        "ulica": "ul. Racławicka 22",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "bio-DIAGNOSTYKA Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3565",
+        "data_wpisu": "2016-02-19",
+        "laboratorium": "Laboratorium Medyczne KMS",
+        "ulica": "ul. Marii Curie-Skłodowskiej 10 C",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Śląski Park Technologii Medycznych Kardio-Med Silesia Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3566",
+        "data_wpisu": "2016-02-19",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka, Katowice, ul. Ignacego Paderewskiego 32 c, Filia w Siemianowicach Śląskich, ul. Szpitalna 6",
+        "ulica": "ul. Szpitalna 6",
+        "kod": "41-100",
+        "miasto": "Siemianowice Śląskie",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3567",
+        "data_wpisu": "2016-02-19",
+        "laboratorium": "Laboratorium Medyczne",
+        "ulica": "26 Marca 51",
+        "kod": "44-300",
+        "miasto": "Wodzisław Śląski",
+        "podmiot": "Dr n.med. Teresa Fryda Laboratorium Medyczne Sp. z o.o.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3577",
+        "data_wpisu": "2016-02-19",
+        "laboratorium": "Laboratorium badania nasienia",
+        "ulica": "Żywiecka 71",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Poli-Med Bielsko Sp. z o.o. \nGalena Sp. k.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3637",
+        "data_wpisu": "2016-11-17",
+        "laboratorium": "Bank Krwi z Pracownią Serologii Transfuzjologicznej",
+        "ulica": "Bialska 104/118",
+        "kod": "42-200",
+        "miasto": "Częstochowa",
+        "podmiot": "Wojewódzki Szpital Specjalistyczny \nim. Najświętszej Maryi Panny",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3662",
+        "data_wpisu": "2016-12-15",
+        "laboratorium": "Centrum Cytologii i Patomorfologii",
+        "ulica": "Swobodna 8",
+        "kod": "41-209",
+        "miasto": "Sosnowiec",
+        "podmiot": "Maciej Grzyb",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3668",
+        "data_wpisu": "2017-01-18",
+        "laboratorium": "MEDI-LITE Anna Różyło Pracownia Testów Alergologicznych",
+        "ulica": "Sempołowskiej 8",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Anna Różyło",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3765",
+        "data_wpisu": "2018-02-16",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "al. J. Piłdudskiego 10",
+        "kod": "41-300",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "Centrum Diagnostyki Laboratoryjnej T .Wielkoszyński i M. Furmański sp. j.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3770",
+        "data_wpisu": "2018-03-22",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Dąbrówki 13",
+        "kod": "40-081",
+        "miasto": "Katowice",
+        "podmiot": "Centrum Bocian Spółka z ograniczoną odpowiedzialnością spółka komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3776",
+        "data_wpisu": "2018-04-19",
+        "laboratorium": "Pracownia Komórek Krwiotwórczych",
+        "ulica": "ul. Wybrzeże Armii Krajowej 15",
+        "kod": "44-102",
+        "miasto": "Gliwice",
+        "podmiot": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3779",
+        "data_wpisu": "2018-04-19",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Szkolna 1",
+        "kod": "42-160",
+        "miasto": "Krzepice",
+        "podmiot": "KORLAB Laboratoria Medyczne Sp. z o.o, sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3780",
+        "data_wpisu": "2018-04-19",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "11 Listopada 5 E",
+        "kod": "42-100",
+        "miasto": "Kłobuck",
+        "podmiot": "KORLAB Laboratoria Medyczne Sp. z o.o, sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3781",
+        "data_wpisu": "2018-04-19",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Szpitalna 40",
+        "kod": "41-250",
+        "miasto": "Czeladź",
+        "podmiot": "KORLAB Laboratoria Medyczne Sp. z o.o, sp. komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3795",
+        "data_wpisu": "2018-09-13",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Pułaskiego 68",
+        "kod": "42-300",
+        "miasto": "Myszków",
+        "podmiot": "Niepubliczny Zespół Opieki Zdrowotnej JAKUBIEC Spółka Jawna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3798",
+        "data_wpisu": "2018-10-25",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka, Jastrzębie Zdrój, al. Jana Pawła II 7, Filia w Czerwionce-Leszczyny, ul. 3 Maja 36C",
+        "ulica": "ul. 3-go Maja 36c",
+        "kod": "44-230",
+        "miasto": "Czerwionka-Leszczyny",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3799",
+        "data_wpisu": "2018-10-25",
+        "laboratorium": "Medyczne laboratorium diagnostyczne",
+        "ulica": "ul. Antesa 11",
+        "kod": "43-200",
+        "miasto": "Pszczyna",
+        "podmiot": "SZPITAL JOANNITAS W PSZCZYNIE SAMORZĄDOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3823",
+        "data_wpisu": "2019-04-01",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. K. Przerwy-Tetmajera 150",
+        "kod": "44-280",
+        "miasto": "Rydułtowy",
+        "podmiot": "Bożena Konieczny-Freund",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3897",
+        "data_wpisu": "2020-02-17",
+        "laboratorium": "Pracownia Immunologii Transplantacyjnej",
+        "ulica": "Szpitalna 17",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Śląskie Centrum Chorób Serca w Zabrzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3901",
+        "data_wpisu": "2020-03-19",
+        "laboratorium": "Zakład Patomorfologii",
+        "ulica": "ul. 3 Maja 13-15",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. prof. Stanisława Szyszko \nŚląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3903",
+        "data_wpisu": "2020-04-24",
+        "laboratorium": "Laboratorium Medyczne Gyncentrum - Oddział Sosnowiec",
+        "ulica": "ul. Wojska Polskiego 8A",
+        "kod": "41-208",
+        "miasto": "Sosnowiec",
+        "podmiot": "Gyncentrum Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3928",
+        "data_wpisu": "2020-07-24",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka Bielsko-Biała, ul. Oświęcimska 39, Filia w Żywcu, ul. Dworcowa 22",
+        "ulica": "ul. Dworcowa 22",
+        "kod": "34-300",
+        "miasto": "Żywiec",
+        "podmiot": "Diagnostyka S.A.",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3936",
+        "data_wpisu": "2020-10-27",
+        "laboratorium": "Laboratorium Centralne",
+        "ulica": "ul. Pola Lisickich 80",
+        "kod": "34-300",
+        "miasto": "Żywiec",
+        "podmiot": "ICZ HEALTHCARE Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3947",
+        "data_wpisu": "2020-10-27",
+        "laboratorium": "Laboratorium",
+        "ulica": "ul. Warszawska 52",
+        "kod": "40-008",
+        "miasto": "Katowice",
+        "podmiot": "American Heart of Poland Spółka Akcyjna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3969",
+        "data_wpisu": "2021-03-18",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Mikołowska 1",
+        "kod": "41-400",
+        "miasto": "Mysłowice",
+        "podmiot": "Mysłowickie Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "3989",
+        "data_wpisu": "2021-06-25",
+        "laboratorium": "Zespół Pracowni Badań – „CLP-B Diagnostyka\"",
+        "ulica": "ul. Rybnicka 6",
+        "kod": "44-335",
+        "miasto": "Jastrzębie-Zdrój",
+        "podmiot": "Centralne Laboratorium Pomiarowo-Badawcze Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4058",
+        "data_wpisu": "2022-06-23",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej",
+        "ulica": "ul. Bielska 4",
+        "kod": "43-300",
+        "miasto": "Cieszyn",
+        "podmiot": "Zespół Zakładów Opieki Zdrowotnej w Cieszynie",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4063",
+        "data_wpisu": "2022-07-13",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "ul. Prymasa Wyszyńskiego 31",
+        "kod": "42-300",
+        "miasto": "Myszków",
+        "podmiot": "LABOMED Jerzy Smaczny",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4068",
+        "data_wpisu": "2022-08-30",
+        "laboratorium": "Zakład Diagnostyki Laboratoryjnej, Chorób Środowiskowych i Cywilizacyjnych",
+        "ulica": "M. Curie-Skłodowskiej 9",
+        "kod": "41-800",
+        "miasto": "Zabrze",
+        "podmiot": "Śląskie Centrum Chorób Serca w Zabrzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4070",
+        "data_wpisu": "2022-10-10",
+        "laboratorium": "Medyczne Laboratorium Diagnostyka Katowice, ul. Ignacego Padarewskiego 32 c, \nFilia w Bielsku - Białej, ul. Kresowa 3",
+        "ulica": "ul. Kresowa 3",
+        "kod": "43-300",
+        "miasto": "Bielsko-Biała",
+        "podmiot": "Diagnostyka Spółka Akcyjna",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4124",
+        "data_wpisu": "2023-07-11",
+        "laboratorium": "Bank Krwi z Pracownią Serologii Transfuzjologicznej",
+        "ulica": "ul. Ziołowa 45-47",
+        "kod": "40-635",
+        "miasto": "Katowice",
+        "podmiot": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca \nŚląskiego Uniwersytetu Medycznego w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4125",
+        "data_wpisu": "2023-07-11",
+        "laboratorium": "Dział Immunologii Transfuzjologicznej Krwinki Czerwonej",
+        "ulica": "ul. Henryka Sienkiewicza 3A",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Raciborzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4126",
+        "data_wpisu": "2023-07-11",
+        "laboratorium": "Dział Czynników Zakaźnych Przenoszonych przez Krew",
+        "ulica": "ul. Henryka Sienkiewicza 3A",
+        "kod": "47-400",
+        "miasto": "Racibórz",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Raciborzu",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4134",
+        "data_wpisu": "2023-08-22",
+        "laboratorium": "Dział Preparatyki",
+        "ulica": "ul. Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4135",
+        "data_wpisu": "2023-08-22",
+        "laboratorium": "Dział Produkcji Odczynników Serologicznych",
+        "ulica": "ul. Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4136",
+        "data_wpisu": "2023-08-22",
+        "laboratorium": "Dział Zapewnienia Jakości",
+        "ulica": "ul. Raciborska 15",
+        "kod": "40-074",
+        "miasto": "Katowice",
+        "podmiot": "Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Katowicach",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4145",
+        "data_wpisu": "2023-09-19",
+        "laboratorium": "Pracownia Genetyki i Biologii Molekularnej (Filia Dąbrowa Górnicza)",
+        "ulica": "ul. Szpitalna 13",
+        "kod": "41-300",
+        "miasto": "Dąbrowa Górnicza",
+        "podmiot": "GynCentrum Spółka z ograniczoną odpowiedzialnością",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4148",
+        "data_wpisu": "2023-10-25",
+        "laboratorium": "Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Stefana Okrzei 27",
+        "kod": "43-190",
+        "miasto": "Mikołów",
+        "podmiot": "KORLAB Laboratoria Medyczne Spółka z ograniczoną odpowiedzialnością Spółka Komandytowa",
+        "wojewodztwo": "Śląskie"
+    },
+    {
+        "nr_wpisu": "4155",
+        "data_wpisu": "2023-12-06",
+        "laboratorium": "Cytolab Medyczne Laboratorium Diagnostyczne",
+        "ulica": "Mikołowska 53",
+        "kod": "40-065",
+        "miasto": "Katowice",
+        "podmiot": "CYTOLAB Medyczne Laboratorium Diagnostyczne Edyta Kruzel-Szwaczka Sp.K.",
+        "wojewodztwo": "Śląskie"
+    }
+]
