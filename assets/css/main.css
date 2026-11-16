@@ -2296,7 +2296,7 @@ button,
 }
 
 #bmi-calculator p {
-    color: #666;
+    color: #555151;
     margin-bottom: 25px;
 }
 
@@ -2401,7 +2401,7 @@ button,
     border-radius: 14px;
 
     text-decoration: none;
-    color: #24374A;
+    color: #000000;
 
     font-size: 22px;
     font-weight: 700;
@@ -2411,9 +2411,9 @@ button,
 }
 
 .woj-card:hover {
-    background: #B7C1AF;
-    border-color: #A7B29F;
-    color: white;
+    background: #70dd17;
+    border-color: #65a03b;
+    color: rgb(2, 0, 0);
     transform: translateY(-4px);
     box-shadow: 0 12px 20px rgba(0,0,0,0.08);
 
