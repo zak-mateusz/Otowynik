@@ -2380,3 +2380,44 @@ button,
     }
 
 }
+/* WYszykiwarka */
+
+.woj-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+    gap:24px;
+    margin-top:30px;
+}
+
+.woj-card{
+    background:#fff;
+    border:1px solid #d7ddd1;
+    border-radius:16px;
+    padding:28px;
+    text-decoration:none;
+    transition:.25s ease;
+    box-shadow:0 4px 12px rgba(0,0,0,.04);
+}
+
+.woj-card:hover{
+    transform:translateY(-6px);
+    box-shadow:0 12px 24px rgba(0,0,0,.08);
+    border-color:#b7c1af;
+}
+
+.pin{
+    font-size:20px;
+    margin-bottom:18px;
+}
+
+.woj-card h3{
+    color:#24374a;
+    font-size:24px;
+    margin:0 0 12px;
+}
+
+.woj-card p{
+    color:#6f7f90;
+    margin:0;
+    font-size:15px;
+}

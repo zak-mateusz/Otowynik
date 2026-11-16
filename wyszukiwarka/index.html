@@ -6,11 +6,11 @@
 -->
 <html>
 	<head>
-		<title>wyszukiwarka/index.html</title>
+		<title>Wyszukiwarka laboratoriow medycznych</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../../assets/css/main.css" />
-		<link rel="icon" type="image/png" href="../../favicon.png">
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<link rel="icon" type="image/png" href="../favicon.png">
 	</head>
 	<body class="is-preload">
 
@@ -27,44 +27,34 @@
 							<!-- Content -->
 								<section id="health-quiz">
 
-									<h2>Quiz zdrowotny</h2>
+									<h2>Gdzie wykonać badania?</h2>
 
-									<p>Wybierz objawy, które Cię dotyczą.</p>
-
-									<label for="symptomSelect">Dodaj objaw</label>
-
-									<select id="symptomSelect">
-  									  <option value="">-- Wybierz objaw --</option>
-									</select>
-
-									<ul id="selectedSymptoms"></ul>
+									<p>Skorzystaj z wyszukiwarki, aby szybko znaleźć laboratorium wykonujące badania w wybranym mieście.</p>
 
 
-									<h3>Dodatkowe informacje</h3>
+									<h3>Wybierz wojewodztwo</h3>
 			
-									<input type="checkbox" id="weightChange" name="weightChange">
-									<label for="weightChange">Nagła zmiana masy ciała</label>
-									
-									<input type="checkbox" id="smoker" name="smoker">
-									<label for="smoker">Palenie papierosów</label>
-									
-									<input type="checkbox" id="thyroidDisease" name="thyroidDisease">
-									<label for="thyroidDisease">Choroba tarczycy</label>
-									
-									<input type="checkbox" id="familyDiabetes" name="familyDiabetes">
-									<label for="familyDiabetes">Cukrzyca w rodzinie</label>
-									
-									<input type="checkbox" id="pregnant" name="pregnant">
-									<label for="pregnant">Ciąża</label>
-									
-									<input type="checkbox" id="vegan" name="vegan">
-									<label for="vegan">Dieta wegańska</label>
-									
-									<input type="checkbox" id="chronicMedication" name="chronicMedication">
-									<label for="chronicMedication">Stałe przyjmowanie leków</label>
-									
-									<input type="checkbox" id="physicalActivity" name="physicalActivity">
-									<label for="physicalActivity">Intensywna aktywność fizyczna</label>
+									<div class="woj-grid">
+
+										<a href="slaskie.html" class="woj-card">
+											<div class="pin">📍</div>
+											<h3>Śląskie</h3>
+											<p>295 laboratoriów</p>
+										</a>
+
+										<a href="malopolskie.html" class="woj-card">
+											<div class="pin">📍</div>
+											<h3>Małopolskie</h3>
+											<p>184 laboratoria</p>
+										</a>
+
+										<a href="mazowieckie.html" class="woj-card">
+											<div class="pin">📍</div>
+											<h3>Mazowieckie</h3>
+											<p>412 laboratoriów</p>
+										</a>
+
+									</div>
 
 									<br><br>
 
