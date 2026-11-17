@@ -2418,3 +2418,69 @@ button,
     box-shadow: 0 12px 20px rgba(0,0,0,0.08);
 
 }
+
+
+
+/*Wyszukiwarka Wyglad*/
+#laboratories-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(550px,1fr));
+    gap:30px;
+    margin-top:30px;
+}
+
+.laboratory-card{
+    background:#ffffff;
+    border:2px solid #0db57a;
+    border-radius:20px;
+    padding:30px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.08);
+    transition:all 0.3s ease;
+}
+
+.laboratory-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.12);
+}
+
+.lab-header{
+    border-bottom:1px solid #e5e5e5;
+    margin-bottom:20px;
+    padding-bottom:15px;
+}
+
+.lab-header h2{
+    margin:0;
+    color:#0a8d63;
+    font-size:28px;
+}
+
+.lab-info p{
+    margin:10px 0;
+    font-size:18px;
+}
+
+.lab-details{
+    margin-top:20px;
+    padding-top:20px;
+    border-top:1px solid #e5e5e5;
+}
+
+.lab-details p{
+    margin:8px 0;
+}
+
+.details-btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 24px;
+    background:#0db57a;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+    font-weight:600;
+}
+
+.details-btn:hover{
+    background:#089865;
+}

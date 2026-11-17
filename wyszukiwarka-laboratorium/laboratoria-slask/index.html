@@ -25,52 +25,34 @@
 							<div id="header-placeholder"></div>
 
 							<!-- Content -->
-								<section id="health-quiz">
+							 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+							 <script type="module" src="js/main.js"></script>
+							<main class="container">
 
-									<h2>Quiz zdrowotny</h2>
+								<section class="filters">
 
-									<p>Wybierz objawy, które Cię dotyczą.</p>
+									<input
+										type="text"
+										id="searchInput"
+										class="search-input"
+										placeholder="Szukaj po nazwie, mieście, emailu..."
+									>
 
-									<label for="symptomSelect">Dodaj objaw</label>
-
-									<select id="symptomSelect">
-  									  <option value="">-- Wybierz objaw --</option>
+									<select id="cityFilter" class="city-select">
+										<option value="">Wszystkie miasta</option>
 									</select>
 
-									<ul id="selectedSymptoms"></ul>
-
-
-									<h3>Dodatkowe informacje</h3>
-			
-									<input type="checkbox" id="weightChange" name="weightChange">
-									<label for="weightChange">Nagła zmiana masy ciała</label>
-									
-									<input type="checkbox" id="smoker" name="smoker">
-									<label for="smoker">Palenie papierosów</label>
-									
-									<input type="checkbox" id="thyroidDisease" name="thyroidDisease">
-									<label for="thyroidDisease">Choroba tarczycy</label>
-									
-									<input type="checkbox" id="familyDiabetes" name="familyDiabetes">
-									<label for="familyDiabetes">Cukrzyca w rodzinie</label>
-									
-									<input type="checkbox" id="pregnant" name="pregnant">
-									<label for="pregnant">Ciąża</label>
-									
-									<input type="checkbox" id="vegan" name="vegan">
-									<label for="vegan">Dieta wegańska</label>
-									
-									<input type="checkbox" id="chronicMedication" name="chronicMedication">
-									<label for="chronicMedication">Stałe przyjmowanie leków</label>
-									
-									<input type="checkbox" id="physicalActivity" name="physicalActivity">
-									<label for="physicalActivity">Intensywna aktywność fizyczna</label>
-
-									<br><br>
-
-							
+									<div class="results-counter">
+										Znaleziono:
+										<span id="resultsCount">0</span>
+										laboratoriów
+									</div>
 
 								</section>
+
+								<section id="laboratories-container"></section>
+
+
 						</div>
 					</div>
 
