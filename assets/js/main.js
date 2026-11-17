@@ -296,4 +296,21 @@
 					
 					}
 
+						// Wyszukiwarka labolatoriow
+							import { getLaboratories }
+							from "./wyszukiwarka/supabase.js";
+
+							async function init() {
+
+								const laboratories =
+									await getLaboratories();
+
+								console.log(laboratories);
+
+							}
+
+							init();
+
+
+							
 })(jQuery);

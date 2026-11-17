@@ -1,5 +1,5 @@
-const SUPABASE_URL = "TU_WKLEJ_URL";
-const SUPABASE_KEY = "TU_WKLEJ_ANON_KEY";
+const SUPABASE_URL = "https://davradlgcnxyghtigosg.supabase.co/rest/v1/";
+const SUPABASE_KEY = "sb_publishable_HWTBDUTpEuwjBULWZMKdFQ_9zPRNq4Z";
 
 const supabase = window.supabase.createClient(
     SUPABASE_URL,
