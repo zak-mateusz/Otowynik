@@ -2397,7 +2397,7 @@ button,
     min-height: 120px;
 
     background: #ffffff;
-    border: 2px solid #3ba889;
+    border: 2px solid #b9C6B5;;
     border-radius: 14px;
 
     text-decoration: none;
@@ -2411,8 +2411,8 @@ button,
 }
 
 .woj-card:hover {
-    background: #3ba889;
-    border-color: #3ba889;
+    background: #b9C6B5;
+    border-color: #b9C6B5;
     color: rgb(2, 0, 0);
     transform: translateY(-4px);
     box-shadow: 0 12px 20px rgba(0,0,0,0.08);
