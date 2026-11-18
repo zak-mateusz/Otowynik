@@ -2446,38 +2446,35 @@ button,
 #cityFilter{
     width:100%;
 
-    height:60px !important;
+    height:48px;
 
-    padding:0 18px;
+    padding:0 16px;
 
-    margin-bottom:20px;
+    margin-bottom:12px;
 
     border:1px solid #d9dfe3;
-    border-radius:12px;
+    border-radius:10px;
 
-    font-size:16px;
-
-    line-height:60px;
+    font-size:15px;
 
     background:#ffffff;
 
     transition:all .2s ease;
 }
 
-}
+
 
 #searchInput:focus,
 #cityFilter:focus{
     outline:none;
-
     border-color:#1abc9c;
-
     box-shadow:0 0 0 3px rgba(26,188,156,.15);
 }
 
+
 .results-counter{
-    margin-top:10px;
-    font-size:16px;
+    margin-top:5px;
+    font-size:15px;
     font-weight:600;
     color:#169c7c;
     
