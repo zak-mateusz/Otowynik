@@ -2,13 +2,15 @@ console.log("Wyszukiwarka działa");
 
 import { getLaboratories } from "./supabase.js";
 
-function renderLaboratories(laboratories) {
+let laboratories = [];
+
+function renderLaboratories(labs) {
 
     const container = document.getElementById("laboratories-container");
 
     let html = "";
 
-    laboratories.forEach(lab => {
+    labs.forEach(lab => {
 
         html += `
             <div class="laboratory-card">
@@ -23,72 +25,115 @@ function renderLaboratories(laboratories) {
 
             </div>
         `;
+
     });
 
     container.innerHTML = html;
 
     document.getElementById("resultsCount").textContent =
-        laboratories.length;
+        labs.length;
+}
+
+function populateCities(labs) {
+
+    const cityFilter =
+        document.getElementById("cityFilter");
+
+    cityFilter.innerHTML =
+        '<option value="">Wszystkie miasta</option>';
+
+    const cities = [...new Set(
+        labs
+            .map(lab => lab.miasto)
+            .filter(Boolean)
+    )];
+
+    cities.sort();
+
+    cities.forEach(city => {
+
+        cityFilter.innerHTML += `
+            <option value="${city}">
+                ${city}
+            </option>
+        `;
+
+    });
+
+}
+
+function applyFilters() {
+
+    const searchInput =
+        document.getElementById("searchInput");
+
+    const cityFilter =
+        document.getElementById("cityFilter");
+
+    const searchTerm =
+        searchInput.value.toLowerCase();
+
+    const selectedCity =
+        cityFilter.value;
+
+    const filteredLabs = laboratories.filter(lab => {
+
+        const name =
+            (lab["Nazwa Placowki"] || "").toLowerCase();
+
+        const city =
+            (lab.miasto || "").toLowerCase();
+
+        const street =
+            (lab.ulica || "").toLowerCase();
+
+        const postCode =
+            (lab.kod || "").toLowerCase();
+
+        const matchesSearch =
+            name.includes(searchTerm) ||
+            city.includes(searchTerm) ||
+            street.includes(searchTerm) ||
+            postCode.includes(searchTerm);
+
+        const matchesCity =
+            selectedCity === "" ||
+            lab.miasto === selectedCity;
+
+        return matchesSearch && matchesCity;
+
+    });
+
+    renderLaboratories(filteredLabs);
+
 }
 
 async function init() {
 
-    const laboratories = await getLaboratories();
-    populateCities(laboratories);
+    laboratories = await getLaboratories();
 
     console.log("Liczba rekordów:", laboratories.length);
 
+    populateCities(laboratories);
+
     renderLaboratories(laboratories);
 
-    const searchInput = document.getElementById("searchInput");
+    const searchInput =
+        document.getElementById("searchInput");
 
-    searchInput.addEventListener("input", function () {
+    const cityFilter =
+        document.getElementById("cityFilter");
 
-        const searchTerm = this.value.toLowerCase();
+    searchInput.addEventListener(
+        "input",
+        applyFilters
+    );
 
-        const filteredLabs = laboratories.filter(lab => {
+    cityFilter.addEventListener(
+        "change",
+        applyFilters
+    );
 
-            const name = (lab["Nazwa Placowki"] || "").toLowerCase();
-            const city = (lab.miasto || "").toLowerCase();
-            const street = (lab.ulica || "").toLowerCase();
-            const postCode = (lab.kod || "").toLowerCase();
-
-            return (
-                name.includes(searchTerm) ||
-                city.includes(searchTerm) ||
-                street.includes(searchTerm) ||
-                postCode.includes(searchTerm)
-            );
-
-        });
-
-        renderLaboratories(filteredLabs);
-
-    });
-            function populateCities(laboratories) {
-
-                const cityFilter =
-                    document.getElementById("cityFilter");
-
-                const cities = [...new Set(
-                    laboratories
-                        .map(lab => lab.miasto)
-                        .filter(Boolean)
-                )];
-
-                cities.sort();
-
-                cities.forEach(city => {
-
-                    cityFilter.innerHTML += `
-                        <option value="${city}">
-                            ${city}
-                        </option>
-                    `;
-
-                });
-
-            }
 }
 
 init();
