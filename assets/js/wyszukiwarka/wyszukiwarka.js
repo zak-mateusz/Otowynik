@@ -14,9 +14,9 @@ async function init() {
         return;
     }
 
-container.innerHTML = `
-    <h1 style="color:red">TEST</h1>
-`;
-}
+            container.innerHTML = `
+                <h1 style="color:red">TEST</h1>
+            `;
+            }
 
 init();
