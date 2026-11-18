@@ -38,6 +38,33 @@ async function init() {
     console.log("Liczba rekordów:", laboratories.length);
 
     renderLaboratories(laboratories);
+
+    const searchInput = document.getElementById("searchInput");
+
+    searchInput.addEventListener("input", function () {
+
+        const searchTerm = this.value.toLowerCase();
+
+        const filteredLabs = laboratories.filter(lab => {
+
+            const name = (lab["Nazwa Placowki"] || "").toLowerCase();
+            const city = (lab.miasto || "").toLowerCase();
+            const street = (lab.ulica || "").toLowerCase();
+            const postCode = (lab.kod || "").toLowerCase();
+
+            return (
+                name.includes(searchTerm) ||
+                city.includes(searchTerm) ||
+                street.includes(searchTerm) ||
+                postCode.includes(searchTerm)
+            );
+
+        });
+
+        renderLaboratories(filteredLabs);
+
+    });
+
 }
 
 init();
