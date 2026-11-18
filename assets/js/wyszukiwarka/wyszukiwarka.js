@@ -22,5 +22,4 @@ async function init() {
                 <p>${laboratories[0].kod}</p>
             </div>
 `;
-
 init();
