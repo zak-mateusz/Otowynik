@@ -2445,7 +2445,11 @@ button,
 }
 #cityFilter{
     width:100%;
-    padding:14px 18px;
+
+    height:60px !important;
+
+    padding:0 18px;
+
     margin-bottom:20px;
 
     border:1px solid #d9dfe3;
@@ -2453,13 +2457,21 @@ button,
 
     font-size:16px;
 
+    line-height:60px;
+
+    background:#ffffff;
+
     transition:all .2s ease;
+}
+
 }
 
 #searchInput:focus,
 #cityFilter:focus{
     outline:none;
+
     border-color:#1abc9c;
+
     box-shadow:0 0 0 3px rgba(26,188,156,.15);
 }
 
@@ -2491,7 +2503,7 @@ button,
 .laboratory-card{
     position:relative;
 
-    width:380px;
+    width:420px;
     min-height:220px;
 
     background:#ffffff;
