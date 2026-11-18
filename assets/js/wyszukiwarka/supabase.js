@@ -1,4 +1,4 @@
-const SUPABASE_URL = "https://davradlgcnxyghtigosg.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://davradlgcnxyghtigosg.supabase.co/";
 const SUPABASE_KEY = "sb_publishable_HWTBDUTpEuwjBULWZMKdFQ_9zPRNq4Z";
 
 const supabase = window.supabase.createClient(
@@ -9,8 +9,10 @@ const supabase = window.supabase.createClient(
 export async function getLaboratories() {
 
     const { data, error } = await supabase
-        .from('laboratoria')
+        .from('Lab_Silesian')
         .select('*');
+        console.log("Error:", error);
+        console.log("Data:", data);
 
     if (error) {
         console.error(error);
