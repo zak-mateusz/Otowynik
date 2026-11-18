@@ -14,13 +14,21 @@ async function init() {
         return;
     }
 
-            container.innerHTML = `
-                <div class="laboratory-card">
-                    <h2>TEST LAB</h2>
-                    <p>${laboratories[0].miasto}</p>
-                    <p>${laboratories[0].ulica}</p>
-                    <p>${laboratories[0].kod}</p>
-                </div>
-            `;
+          let html = '';
+
+            laboratories.forEach(lab => {
+
+                html += `
+                    <div class="laboratory-card">
+                        <h2>${lab["Nazwa Placowki"]}</h2>
+                        <p>${lab.miasto}</p>
+                        <p>${lab.ulica}</p>
+                        <p>${lab.kod}</p>
+                    </div>
+                `;
+
+            });
+
+            container.innerHTML = html;
 }   
 init();
