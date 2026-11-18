@@ -12,19 +12,19 @@ function renderLaboratories(labs) {
 
     labs.forEach(lab => {
 
-        html += `
-            <div class="laboratory-card">
+            html += `
+                <div class="laboratory-card">
 
-                <h2>${lab["Nazwa Placowki"]}</h2>
+                    <h2>${lab["Nazwa Placowki"]}</h2>
 
-                <p><strong>Miasto:</strong> ${lab.miasto}</p>
+                    <p>📍 <strong>Miasto:</strong> ${lab.miasto}</p>
 
-                <p><strong>Ulica:</strong> ${lab.ulica}</p>
+                    <p>🏠 <strong>Ulica:</strong> ${lab.ulica}</p>
 
-                <p><strong>Kod:</strong> ${lab.kod}</p>
+                    <p>📮 <strong>Kod:</strong> ${lab.kod}</p>
 
-            </div>
-        `;
+                </div>
+            `;
 
     });
 

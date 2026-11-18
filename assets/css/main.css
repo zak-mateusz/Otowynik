@@ -2421,66 +2421,140 @@ button,
 
 
 
-/*Wyszukiwarka Wyglad*/
-#laboratories-container{
-    display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(550px,1fr));
-    gap:30px;
-    margin-top:30px;
+/* =========================
+   PANEL WYSZUKIWANIA
+========================= */
+
+.search-panel{
+    background:#ffffff;
+    padding:30px;
+    border-radius:20px;
+    margin-bottom:40px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
 }
 
+.search-panel h1{
+    margin-bottom:20px;
+    color:#169c7c;
+}
+
+#searchInput,
+#cityFilter{
+    width:100%;
+    padding:14px 18px;
+    margin-bottom:15px;
+
+    border:1px solid #d9dfe3;
+    border-radius:12px;
+
+    font-size:16px;
+
+    transition:all .2s ease;
+}
+
+#searchInput:focus,
+#cityFilter:focus{
+    outline:none;
+    border-color:#1abc9c;
+    box-shadow:0 0 0 3px rgba(26,188,156,.15);
+}
+
+.results-counter{
+    margin-top:10px;
+    font-size:16px;
+    font-weight:600;
+    color:#169c7c;
+}
+
+
+/* =========================
+   KONTENER KAFELKÓW
+========================= */
+
+#laboratories-container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:24px;
+}
+
+
+/* =========================
+   KAFELEK LABORATORIUM
+========================= */
+
 .laboratory-card{
+    position:relative;
+
+    width:380px;
+    min-height:220px;
+
     background:#ffffff;
-    border:2px solid #0db57a;
-    border-radius:20px;
-    padding:30px;
-    box-shadow:0 8px 20px rgba(0,0,0,0.08);
-    transition:all 0.3s ease;
+
+    border:1px solid #e6e6e6;
+    border-radius:18px;
+
+    padding:24px;
+
+    box-shadow:0 4px 14px rgba(0,0,0,0.08);
+
+    transition:all .25s ease;
+}
+
+.laboratory-card::before{
+    content:"";
+
+    position:absolute;
+
+    top:0;
+    left:0;
+    right:0;
+
+    height:6px;
+
+    background:#1abc9c;
+
+    border-radius:18px 18px 0 0;
 }
 
 .laboratory-card:hover{
-    transform:translateY(-5px);
-    box-shadow:0 15px 30px rgba(0,0,0,0.12);
+    transform:translateY(-4px);
+
+    box-shadow:0 12px 25px rgba(0,0,0,0.12);
+
+    border-color:#1abc9c;
 }
 
-.lab-header{
-    border-bottom:1px solid #e5e5e5;
-    margin-bottom:20px;
-    padding-bottom:15px;
+.laboratory-card h2{
+    margin:10px 0 20px 0;
+
+    font-size:1.25rem;
+    line-height:1.4;
+
+    color:#169c7c;
 }
 
-.lab-header h2{
-    margin:0;
-    color:#0a8d63;
-    font-size:28px;
-}
-
-.lab-info p{
+.laboratory-card p{
     margin:10px 0;
-    font-size:18px;
+
+    color:#444;
+    font-size:15px;
+    line-height:1.5;
 }
 
-.lab-details{
-    margin-top:20px;
-    padding-top:20px;
-    border-top:1px solid #e5e5e5;
+.laboratory-card strong{
+    color:#222;
 }
 
-.lab-details p{
-    margin:8px 0;
-}
 
-.details-btn{
-    display:inline-block;
-    margin-top:20px;
-    padding:12px 24px;
-    background:#0db57a;
-    color:white;
-    text-decoration:none;
-    border-radius:10px;
-    font-weight:600;
-}
+/* =========================
+   RESPONSYWNOŚĆ
+========================= */
 
-.details-btn:hover{
-    background:#089865;
+@media(max-width:768px){
+
+    .laboratory-card{
+        width:100%;
+    }
+
 }
