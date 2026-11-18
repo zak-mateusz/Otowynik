@@ -34,6 +34,7 @@ function renderLaboratories(laboratories) {
 async function init() {
 
     const laboratories = await getLaboratories();
+    populateCities(laboratories);
 
     console.log("Liczba rekordów:", laboratories.length);
 
@@ -64,7 +65,30 @@ async function init() {
         renderLaboratories(filteredLabs);
 
     });
+            function populateCities(laboratories) {
 
+                const cityFilter =
+                    document.getElementById("cityFilter");
+
+                const cities = [...new Set(
+                    laboratories
+                        .map(lab => lab.miasto)
+                        .filter(Boolean)
+                )];
+
+                cities.sort();
+
+                cities.forEach(city => {
+
+                    cityFilter.innerHTML += `
+                        <option value="${city}">
+                            ${city}
+                        </option>
+                    `;
+
+                });
+
+            }
 }
 
 init();
