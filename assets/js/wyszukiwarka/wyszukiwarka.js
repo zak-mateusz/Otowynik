@@ -14,14 +14,9 @@ async function init() {
         return;
     }
 
-    container.innerHTML = `
-        <div class="laboratory-card">
-            <h2>${laboratories[0]["Nazwa Placowki"]}</h2>
-            <p>${laboratories[0].miasto}</p>
-            <p>${laboratories[0].ulica}</p>
-            <p>${laboratories[0].kod}</p>
-        </div>
-    `;
+container.innerHTML = `
+    <h1 style="color:red">TEST</h1>
+`;
 }
 
 init();
