@@ -6,6 +6,8 @@ async function init() {
     const laboratories = await getLaboratories();
 
     console.log(laboratories);
+    console.log("Pierwszy rekord:");
+    console.log(laboratories[0]);
 
 }
 
