@@ -1,38 +1,43 @@
 console.log("Wyszukiwarka działa");
+
 import { getLaboratories } from "./supabase.js";
+
+function renderLaboratories(laboratories) {
+
+    const container = document.getElementById("laboratories-container");
+
+    let html = "";
+
+    laboratories.forEach(lab => {
+
+        html += `
+            <div class="laboratory-card">
+
+                <h2>${lab["Nazwa Placowki"]}</h2>
+
+                <p><strong>Miasto:</strong> ${lab.miasto}</p>
+
+                <p><strong>Ulica:</strong> ${lab.ulica}</p>
+
+                <p><strong>Kod:</strong> ${lab.kod}</p>
+
+            </div>
+        `;
+    });
+
+    container.innerHTML = html;
+
+    document.getElementById("resultsCount").textContent =
+        laboratories.length;
+}
 
 async function init() {
 
     const laboratories = await getLaboratories();
 
-    console.log(laboratories[0]);
+    console.log("Liczba rekordów:", laboratories.length);
 
-    const container = document.getElementById("laboratories-container");
+    renderLaboratories(laboratories);
+}
 
-    if (!container) {
-        console.error("Nie znaleziono laboratories-container");
-        return;
-    }
-
-          let html = '';
-
-            laboratories.forEach(lab => {
-
-                html += `
-                    <div class="laboratory-card">
-                        <h2>${lab["Nazwa Placowki"]}</h2>
-                        <p>${lab.miasto}</p>
-                        <p>${lab.ulica}</p>
-                        <p>${lab.kod}</p>
-                    </div>
-                `;
-
-            });
-
-            container.innerHTML = html;
-
-
-            document.getElementById("resultsCount").textContent =
-            laboratories.length;
-}   
 init();
