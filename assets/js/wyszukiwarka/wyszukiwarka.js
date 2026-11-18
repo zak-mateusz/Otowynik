@@ -30,5 +30,9 @@ async function init() {
             });
 
             container.innerHTML = html;
+
+
+            document.getElementById("resultsCount").textContent =
+            laboratories.length;
 }   
 init();
