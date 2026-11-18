@@ -15,11 +15,11 @@ async function init() {
     }
 
             container.innerHTML = `
-            <div class="laboratory-card">
-                <h2>TEST LAB</h2>
-                <p>${laboratories[0].miasto}</p>
-                <p>${laboratories[0].ulica}</p>
-                <p>${laboratories[0].kod}</p>
-            </div>
-`;
+                <div class="laboratory-card">
+                    <h2>TEST LAB</h2>
+                    <p>${laboratories[0].miasto}</p>
+                    <p>${laboratories[0].ulica}</p>
+                    <p>${laboratories[0].kod}</p>
+                </div>
+            `;
 init();
